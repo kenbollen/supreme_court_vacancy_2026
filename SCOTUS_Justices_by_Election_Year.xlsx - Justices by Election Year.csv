@@ -1,0 +1,592 @@
+Election Year,Election Type,Justice Name,Appointed By,Appointing President's Party,Year Appointed,Age in Election Year,Years on Court,Ideology,Status,President,President's Party,Presidential Term,House Control,Senate Control,President's Party Controls,Other Conservatives,Other Moderates,Other Liberals
+1900,Presidential,John Marshall Harlan I,Rutherford B. Hayes,Republican,1877,67,23,Liberal,Stayed,William McKinley,Republican,1,Republican,Republican,Both,6,2,0
+1900,Presidential,Horace Gray,Chester A. Arthur,Republican,1882,72,18,Conservative,Stayed,William McKinley,Republican,1,Republican,Republican,Both,5,2,1
+1900,Presidential,Melville Fuller,Grover Cleveland,Democratic,1888,67,12,Conservative,Stayed,William McKinley,Republican,1,Republican,Republican,Both,5,2,1
+1900,Presidential,David Brewer,Benjamin Harrison,Republican,1890,63,10,Conservative,Stayed,William McKinley,Republican,1,Republican,Republican,Both,5,2,1
+1900,Presidential,Henry B. Brown,Benjamin Harrison,Republican,1891,64,9,Moderate,Stayed,William McKinley,Republican,1,Republican,Republican,Both,6,1,1
+1900,Presidential,George Shiras Jr.,Benjamin Harrison,Republican,1892,68,8,Moderate,Stayed,William McKinley,Republican,1,Republican,Republican,Both,6,1,1
+1900,Presidential,Edward Douglass White,Grover Cleveland,Democratic,1894,55,6,Conservative,Stayed,William McKinley,Republican,1,Republican,Republican,Both,5,2,1
+1900,Presidential,Rufus Peckham,Grover Cleveland,Democratic,1896,62,4,Conservative,Stayed,William McKinley,Republican,1,Republican,Republican,Both,5,2,1
+1900,Presidential,Joseph McKenna,William McKinley,Republican,1898,57,2,Conservative,Stayed,William McKinley,Republican,1,Republican,Republican,Both,5,2,1
+1902,Mid-term,John Marshall Harlan I,Rutherford B. Hayes,Republican,1877,69,25,Liberal,Stayed,Theodore Roosevelt,Republican,1,Republican,Republican,Both,6,2,1
+1902,Mid-term,Horace Gray,Chester A. Arthur,Republican,1882,74,20,Conservative,Left - Died (Involuntary),Theodore Roosevelt,Republican,1,Republican,Republican,Both,5,2,2
+1902,Mid-term,Melville Fuller,Grover Cleveland,Democratic,1888,69,14,Conservative,Stayed,Theodore Roosevelt,Republican,1,Republican,Republican,Both,5,2,2
+1902,Mid-term,David Brewer,Benjamin Harrison,Republican,1890,65,12,Conservative,Stayed,Theodore Roosevelt,Republican,1,Republican,Republican,Both,5,2,2
+1902,Mid-term,Henry B. Brown,Benjamin Harrison,Republican,1891,66,11,Moderate,Stayed,Theodore Roosevelt,Republican,1,Republican,Republican,Both,6,1,2
+1902,Mid-term,George Shiras Jr.,Benjamin Harrison,Republican,1892,70,10,Moderate,Stayed,Theodore Roosevelt,Republican,1,Republican,Republican,Both,6,1,2
+1902,Mid-term,Edward Douglass White,Grover Cleveland,Democratic,1894,57,8,Conservative,Stayed,Theodore Roosevelt,Republican,1,Republican,Republican,Both,5,2,2
+1902,Mid-term,Rufus Peckham,Grover Cleveland,Democratic,1896,64,6,Conservative,Stayed,Theodore Roosevelt,Republican,1,Republican,Republican,Both,5,2,2
+1902,Mid-term,Joseph McKenna,William McKinley,Republican,1898,59,4,Conservative,Stayed,Theodore Roosevelt,Republican,1,Republican,Republican,Both,5,2,2
+1902,Mid-term,Oliver Wendell Holmes Jr.,Theodore Roosevelt,Republican,1902,61,0,Liberal,Stayed,Theodore Roosevelt,Republican,1,Republican,Republican,Both,6,2,1
+1904,Presidential,John Marshall Harlan I,Rutherford B. Hayes,Republican,1877,71,27,Liberal,Stayed,Theodore Roosevelt,Republican,1,Republican,Republican,Both,5,2,1
+1904,Presidential,Melville Fuller,Grover Cleveland,Democratic,1888,71,16,Conservative,Stayed,Theodore Roosevelt,Republican,1,Republican,Republican,Both,4,2,2
+1904,Presidential,David Brewer,Benjamin Harrison,Republican,1890,67,14,Conservative,Stayed,Theodore Roosevelt,Republican,1,Republican,Republican,Both,4,2,2
+1904,Presidential,Henry B. Brown,Benjamin Harrison,Republican,1891,68,13,Moderate,Stayed,Theodore Roosevelt,Republican,1,Republican,Republican,Both,5,1,2
+1904,Presidential,Edward Douglass White,Grover Cleveland,Democratic,1894,59,10,Conservative,Stayed,Theodore Roosevelt,Republican,1,Republican,Republican,Both,4,2,2
+1904,Presidential,Rufus Peckham,Grover Cleveland,Democratic,1896,66,8,Conservative,Stayed,Theodore Roosevelt,Republican,1,Republican,Republican,Both,4,2,2
+1904,Presidential,Joseph McKenna,William McKinley,Republican,1898,61,6,Conservative,Stayed,Theodore Roosevelt,Republican,1,Republican,Republican,Both,4,2,2
+1904,Presidential,Oliver Wendell Holmes Jr.,Theodore Roosevelt,Republican,1902,63,2,Liberal,Stayed,Theodore Roosevelt,Republican,1,Republican,Republican,Both,5,2,1
+1904,Presidential,William R. Day,Theodore Roosevelt,Republican,1903,55,1,Moderate,Stayed,Theodore Roosevelt,Republican,1,Republican,Republican,Both,5,1,2
+1906,Mid-term,John Marshall Harlan I,Rutherford B. Hayes,Republican,1877,73,29,Liberal,Stayed,Theodore Roosevelt,Republican,2,Republican,Republican,Both,5,3,1
+1906,Mid-term,Melville Fuller,Grover Cleveland,Democratic,1888,73,18,Conservative,Stayed,Theodore Roosevelt,Republican,2,Republican,Republican,Both,4,3,2
+1906,Mid-term,David Brewer,Benjamin Harrison,Republican,1890,69,16,Conservative,Stayed,Theodore Roosevelt,Republican,2,Republican,Republican,Both,4,3,2
+1906,Mid-term,Henry B. Brown,Benjamin Harrison,Republican,1891,70,15,Moderate,Left - Retired (Voluntary),Theodore Roosevelt,Republican,2,Republican,Republican,Both,5,2,2
+1906,Mid-term,Edward Douglass White,Grover Cleveland,Democratic,1894,61,12,Conservative,Stayed,Theodore Roosevelt,Republican,2,Republican,Republican,Both,4,3,2
+1906,Mid-term,Rufus Peckham,Grover Cleveland,Democratic,1896,68,10,Conservative,Stayed,Theodore Roosevelt,Republican,2,Republican,Republican,Both,4,3,2
+1906,Mid-term,Joseph McKenna,William McKinley,Republican,1898,63,8,Conservative,Stayed,Theodore Roosevelt,Republican,2,Republican,Republican,Both,4,3,2
+1906,Mid-term,Oliver Wendell Holmes Jr.,Theodore Roosevelt,Republican,1902,65,4,Liberal,Stayed,Theodore Roosevelt,Republican,2,Republican,Republican,Both,5,3,1
+1906,Mid-term,William R. Day,Theodore Roosevelt,Republican,1903,57,3,Moderate,Stayed,Theodore Roosevelt,Republican,2,Republican,Republican,Both,5,2,2
+1906,Mid-term,William H. Moody,Theodore Roosevelt,Republican,1906,53,0,Moderate,Stayed,Theodore Roosevelt,Republican,2,Republican,Republican,Both,5,2,2
+1908,Presidential,John Marshall Harlan I,Rutherford B. Hayes,Republican,1877,75,31,Liberal,Stayed,Theodore Roosevelt,Republican,2,Republican,Republican,Both,5,2,1
+1908,Presidential,Melville Fuller,Grover Cleveland,Democratic,1888,75,20,Conservative,Stayed,Theodore Roosevelt,Republican,2,Republican,Republican,Both,4,2,2
+1908,Presidential,David Brewer,Benjamin Harrison,Republican,1890,71,18,Conservative,Stayed,Theodore Roosevelt,Republican,2,Republican,Republican,Both,4,2,2
+1908,Presidential,Edward Douglass White,Grover Cleveland,Democratic,1894,63,14,Conservative,Stayed,Theodore Roosevelt,Republican,2,Republican,Republican,Both,4,2,2
+1908,Presidential,Rufus Peckham,Grover Cleveland,Democratic,1896,70,12,Conservative,Stayed,Theodore Roosevelt,Republican,2,Republican,Republican,Both,4,2,2
+1908,Presidential,Joseph McKenna,William McKinley,Republican,1898,65,10,Conservative,Stayed,Theodore Roosevelt,Republican,2,Republican,Republican,Both,4,2,2
+1908,Presidential,Oliver Wendell Holmes Jr.,Theodore Roosevelt,Republican,1902,67,6,Liberal,Stayed,Theodore Roosevelt,Republican,2,Republican,Republican,Both,5,2,1
+1908,Presidential,William R. Day,Theodore Roosevelt,Republican,1903,59,5,Moderate,Stayed,Theodore Roosevelt,Republican,2,Republican,Republican,Both,5,1,2
+1908,Presidential,William H. Moody,Theodore Roosevelt,Republican,1906,55,2,Moderate,Stayed,Theodore Roosevelt,Republican,2,Republican,Republican,Both,5,1,2
+1910,Mid-term,John Marshall Harlan I,Rutherford B. Hayes,Republican,1877,77,33,Liberal,Stayed,William Howard Taft,Republican,1,Republican,Republican,Both,5,3,1
+1910,Mid-term,Melville Fuller,Grover Cleveland,Democratic,1888,77,22,Conservative,Left - Died (Involuntary),William Howard Taft,Republican,1,Republican,Republican,Both,4,3,2
+1910,Mid-term,David Brewer,Benjamin Harrison,Republican,1890,73,20,Conservative,Left - Died (Involuntary),William Howard Taft,Republican,1,Republican,Republican,Both,4,3,2
+1910,Mid-term,Edward Douglass White,Grover Cleveland,Democratic,1894,65,16,Conservative,Stayed,William Howard Taft,Republican,1,Republican,Republican,Both,4,3,2
+1910,Mid-term,Joseph McKenna,William McKinley,Republican,1898,67,12,Conservative,Stayed,William Howard Taft,Republican,1,Republican,Republican,Both,4,3,2
+1910,Mid-term,Oliver Wendell Holmes Jr.,Theodore Roosevelt,Republican,1902,69,8,Liberal,Stayed,William Howard Taft,Republican,1,Republican,Republican,Both,5,3,1
+1910,Mid-term,William R. Day,Theodore Roosevelt,Republican,1903,61,7,Moderate,Stayed,William Howard Taft,Republican,1,Republican,Republican,Both,5,2,2
+1910,Mid-term,William H. Moody,Theodore Roosevelt,Republican,1906,57,4,Moderate,Left - Retired (Voluntary),William Howard Taft,Republican,1,Republican,Republican,Both,5,2,2
+1910,Mid-term,Horace Lurton,William Howard Taft,Republican,1910,66,0,Conservative,Stayed,William Howard Taft,Republican,1,Republican,Republican,Both,4,3,2
+1910,Mid-term,Charles Evans Hughes,William Howard Taft,Republican,1910,48,0,Moderate,Stayed,William Howard Taft,Republican,1,Republican,Republican,Both,5,2,2
+1912,Presidential,Edward Douglass White,Grover Cleveland,Democratic,1894,67,18,Conservative,Stayed,William Howard Taft,Republican,1,Democratic,Republican,Senate Only,4,3,1
+1912,Presidential,Joseph McKenna,William McKinley,Republican,1898,69,14,Conservative,Stayed,William Howard Taft,Republican,1,Democratic,Republican,Senate Only,4,3,1
+1912,Presidential,Oliver Wendell Holmes Jr.,Theodore Roosevelt,Republican,1902,71,10,Liberal,Stayed,William Howard Taft,Republican,1,Democratic,Republican,Senate Only,5,3,0
+1912,Presidential,William R. Day,Theodore Roosevelt,Republican,1903,63,9,Moderate,Stayed,William Howard Taft,Republican,1,Democratic,Republican,Senate Only,5,2,1
+1912,Presidential,Horace Lurton,William Howard Taft,Republican,1910,68,2,Conservative,Stayed,William Howard Taft,Republican,1,Democratic,Republican,Senate Only,4,3,1
+1912,Presidential,Charles Evans Hughes,William Howard Taft,Republican,1910,50,2,Moderate,Stayed,William Howard Taft,Republican,1,Democratic,Republican,Senate Only,5,2,1
+1912,Presidential,Willis Van Devanter,William Howard Taft,Republican,1911,53,1,Conservative,Stayed,William Howard Taft,Republican,1,Democratic,Republican,Senate Only,4,3,1
+1912,Presidential,Joseph Rucker Lamar,William Howard Taft,Republican,1911,55,1,Moderate,Stayed,William Howard Taft,Republican,1,Democratic,Republican,Senate Only,5,2,1
+1912,Presidential,Mahlon Pitney,William Howard Taft,Republican,1912,54,0,Conservative,Stayed,William Howard Taft,Republican,1,Democratic,Republican,Senate Only,4,3,1
+1914,Mid-term,Edward Douglass White,Grover Cleveland,Democratic,1894,69,20,Conservative,Stayed,Woodrow Wilson,Democratic,1,Democratic,Democratic,Both,5,3,1
+1914,Mid-term,Joseph McKenna,William McKinley,Republican,1898,71,16,Conservative,Stayed,Woodrow Wilson,Democratic,1,Democratic,Democratic,Both,5,3,1
+1914,Mid-term,Oliver Wendell Holmes Jr.,Theodore Roosevelt,Republican,1902,73,12,Liberal,Stayed,Woodrow Wilson,Democratic,1,Democratic,Democratic,Both,6,3,0
+1914,Mid-term,William R. Day,Theodore Roosevelt,Republican,1903,65,11,Moderate,Stayed,Woodrow Wilson,Democratic,1,Democratic,Democratic,Both,6,2,1
+1914,Mid-term,Horace Lurton,William Howard Taft,Republican,1910,70,4,Conservative,Left - Died (Involuntary),Woodrow Wilson,Democratic,1,Democratic,Democratic,Both,5,3,1
+1914,Mid-term,Charles Evans Hughes,William Howard Taft,Republican,1910,52,4,Moderate,Stayed,Woodrow Wilson,Democratic,1,Democratic,Democratic,Both,6,2,1
+1914,Mid-term,Willis Van Devanter,William Howard Taft,Republican,1911,55,3,Conservative,Stayed,Woodrow Wilson,Democratic,1,Democratic,Democratic,Both,5,3,1
+1914,Mid-term,Joseph Rucker Lamar,William Howard Taft,Republican,1911,57,3,Moderate,Stayed,Woodrow Wilson,Democratic,1,Democratic,Democratic,Both,6,2,1
+1914,Mid-term,Mahlon Pitney,William Howard Taft,Republican,1912,56,2,Conservative,Stayed,Woodrow Wilson,Democratic,1,Democratic,Democratic,Both,5,3,1
+1914,Mid-term,James Clark McReynolds,Woodrow Wilson,Democratic,1914,52,0,Conservative,Stayed,Woodrow Wilson,Democratic,1,Democratic,Democratic,Both,5,3,1
+1916,Presidential,Edward Douglass White,Grover Cleveland,Democratic,1894,71,22,Conservative,Stayed,Woodrow Wilson,Democratic,1,Democratic,Democratic,Both,4,3,3
+1916,Presidential,Joseph McKenna,William McKinley,Republican,1898,73,18,Conservative,Stayed,Woodrow Wilson,Democratic,1,Democratic,Democratic,Both,4,3,3
+1916,Presidential,Oliver Wendell Holmes Jr.,Theodore Roosevelt,Republican,1902,75,14,Liberal,Stayed,Woodrow Wilson,Democratic,1,Democratic,Democratic,Both,5,3,2
+1916,Presidential,William R. Day,Theodore Roosevelt,Republican,1903,67,13,Moderate,Stayed,Woodrow Wilson,Democratic,1,Democratic,Democratic,Both,5,2,3
+1916,Presidential,Charles Evans Hughes,William Howard Taft,Republican,1910,54,6,Moderate,Left - Resigned (Voluntary),Woodrow Wilson,Democratic,1,Democratic,Democratic,Both,5,2,3
+1916,Presidential,Willis Van Devanter,William Howard Taft,Republican,1911,57,5,Conservative,Stayed,Woodrow Wilson,Democratic,1,Democratic,Democratic,Both,4,3,3
+1916,Presidential,Joseph Rucker Lamar,William Howard Taft,Republican,1911,59,5,Moderate,Left - Died (Involuntary),Woodrow Wilson,Democratic,1,Democratic,Democratic,Both,5,2,3
+1916,Presidential,Mahlon Pitney,William Howard Taft,Republican,1912,58,4,Conservative,Stayed,Woodrow Wilson,Democratic,1,Democratic,Democratic,Both,4,3,3
+1916,Presidential,James Clark McReynolds,Woodrow Wilson,Democratic,1914,54,2,Conservative,Stayed,Woodrow Wilson,Democratic,1,Democratic,Democratic,Both,4,3,3
+1916,Presidential,Louis Brandeis,Woodrow Wilson,Democratic,1916,60,0,Liberal,Stayed,Woodrow Wilson,Democratic,1,Democratic,Democratic,Both,5,3,2
+1916,Presidential,John Hessin Clarke,Woodrow Wilson,Democratic,1916,59,0,Liberal,Stayed,Woodrow Wilson,Democratic,1,Democratic,Democratic,Both,5,3,2
+1918,Mid-term,Edward Douglass White,Grover Cleveland,Democratic,1894,73,24,Conservative,Stayed,Woodrow Wilson,Democratic,2,Republican,Republican,Neither,4,1,3
+1918,Mid-term,Joseph McKenna,William McKinley,Republican,1898,75,20,Conservative,Stayed,Woodrow Wilson,Democratic,2,Republican,Republican,Neither,4,1,3
+1918,Mid-term,Oliver Wendell Holmes Jr.,Theodore Roosevelt,Republican,1902,77,16,Liberal,Stayed,Woodrow Wilson,Democratic,2,Republican,Republican,Neither,5,1,2
+1918,Mid-term,William R. Day,Theodore Roosevelt,Republican,1903,69,15,Moderate,Stayed,Woodrow Wilson,Democratic,2,Republican,Republican,Neither,5,0,3
+1918,Mid-term,Willis Van Devanter,William Howard Taft,Republican,1911,59,7,Conservative,Stayed,Woodrow Wilson,Democratic,2,Republican,Republican,Neither,4,1,3
+1918,Mid-term,Mahlon Pitney,William Howard Taft,Republican,1912,60,6,Conservative,Stayed,Woodrow Wilson,Democratic,2,Republican,Republican,Neither,4,1,3
+1918,Mid-term,James Clark McReynolds,Woodrow Wilson,Democratic,1914,56,4,Conservative,Stayed,Woodrow Wilson,Democratic,2,Republican,Republican,Neither,4,1,3
+1918,Mid-term,Louis Brandeis,Woodrow Wilson,Democratic,1916,62,2,Liberal,Stayed,Woodrow Wilson,Democratic,2,Republican,Republican,Neither,5,1,2
+1918,Mid-term,John Hessin Clarke,Woodrow Wilson,Democratic,1916,61,2,Liberal,Stayed,Woodrow Wilson,Democratic,2,Republican,Republican,Neither,5,1,2
+1920,Presidential,Edward Douglass White,Grover Cleveland,Democratic,1894,75,26,Conservative,Stayed,Woodrow Wilson,Democratic,2,Republican,Republican,Neither,4,1,3
+1920,Presidential,Joseph McKenna,William McKinley,Republican,1898,77,22,Conservative,Stayed,Woodrow Wilson,Democratic,2,Republican,Republican,Neither,4,1,3
+1920,Presidential,Oliver Wendell Holmes Jr.,Theodore Roosevelt,Republican,1902,79,18,Liberal,Stayed,Woodrow Wilson,Democratic,2,Republican,Republican,Neither,5,1,2
+1920,Presidential,William R. Day,Theodore Roosevelt,Republican,1903,71,17,Moderate,Stayed,Woodrow Wilson,Democratic,2,Republican,Republican,Neither,5,0,3
+1920,Presidential,Willis Van Devanter,William Howard Taft,Republican,1911,61,9,Conservative,Stayed,Woodrow Wilson,Democratic,2,Republican,Republican,Neither,4,1,3
+1920,Presidential,Mahlon Pitney,William Howard Taft,Republican,1912,62,8,Conservative,Stayed,Woodrow Wilson,Democratic,2,Republican,Republican,Neither,4,1,3
+1920,Presidential,James Clark McReynolds,Woodrow Wilson,Democratic,1914,58,6,Conservative,Stayed,Woodrow Wilson,Democratic,2,Republican,Republican,Neither,4,1,3
+1920,Presidential,Louis Brandeis,Woodrow Wilson,Democratic,1916,64,4,Liberal,Stayed,Woodrow Wilson,Democratic,2,Republican,Republican,Neither,5,1,2
+1920,Presidential,John Hessin Clarke,Woodrow Wilson,Democratic,1916,63,4,Liberal,Stayed,Woodrow Wilson,Democratic,2,Republican,Republican,Neither,5,1,2
+1922,Mid-term,Joseph McKenna,William McKinley,Republican,1898,79,24,Conservative,Stayed,Warren G. Harding,Republican,1,Republican,Republican,Both,5,1,3
+1922,Mid-term,Oliver Wendell Holmes Jr.,Theodore Roosevelt,Republican,1902,81,20,Liberal,Stayed,Warren G. Harding,Republican,1,Republican,Republican,Both,6,1,2
+1922,Mid-term,William R. Day,Theodore Roosevelt,Republican,1903,73,19,Moderate,Left - Retired (Voluntary),Warren G. Harding,Republican,1,Republican,Republican,Both,6,0,3
+1922,Mid-term,Willis Van Devanter,William Howard Taft,Republican,1911,63,11,Conservative,Stayed,Warren G. Harding,Republican,1,Republican,Republican,Both,5,1,3
+1922,Mid-term,Mahlon Pitney,William Howard Taft,Republican,1912,64,10,Conservative,Left - Retired (Voluntary),Warren G. Harding,Republican,1,Republican,Republican,Both,5,1,3
+1922,Mid-term,James Clark McReynolds,Woodrow Wilson,Democratic,1914,60,8,Conservative,Stayed,Warren G. Harding,Republican,1,Republican,Republican,Both,5,1,3
+1922,Mid-term,Louis Brandeis,Woodrow Wilson,Democratic,1916,66,6,Liberal,Stayed,Warren G. Harding,Republican,1,Republican,Republican,Both,6,1,2
+1922,Mid-term,John Hessin Clarke,Woodrow Wilson,Democratic,1916,65,6,Liberal,Left - Resigned (Voluntary),Warren G. Harding,Republican,1,Republican,Republican,Both,6,1,2
+1922,Mid-term,William Howard Taft,Warren G. Harding,Republican,1921,65,1,Conservative,Stayed,Warren G. Harding,Republican,1,Republican,Republican,Both,5,1,3
+1922,Mid-term,George Sutherland,Warren G. Harding,Republican,1922,60,0,Conservative,Stayed,Warren G. Harding,Republican,1,Republican,Republican,Both,5,1,3
+1924,Presidential,Joseph McKenna,William McKinley,Republican,1898,81,26,Conservative,Stayed,Calvin Coolidge,Republican,1,Republican,Republican,Both,6,0,2
+1924,Presidential,Oliver Wendell Holmes Jr.,Theodore Roosevelt,Republican,1902,83,22,Liberal,Stayed,Calvin Coolidge,Republican,1,Republican,Republican,Both,7,0,1
+1924,Presidential,Willis Van Devanter,William Howard Taft,Republican,1911,65,13,Conservative,Stayed,Calvin Coolidge,Republican,1,Republican,Republican,Both,6,0,2
+1924,Presidential,James Clark McReynolds,Woodrow Wilson,Democratic,1914,62,10,Conservative,Stayed,Calvin Coolidge,Republican,1,Republican,Republican,Both,6,0,2
+1924,Presidential,Louis Brandeis,Woodrow Wilson,Democratic,1916,68,8,Liberal,Stayed,Calvin Coolidge,Republican,1,Republican,Republican,Both,7,0,1
+1924,Presidential,William Howard Taft,Warren G. Harding,Republican,1921,67,3,Conservative,Stayed,Calvin Coolidge,Republican,1,Republican,Republican,Both,6,0,2
+1924,Presidential,George Sutherland,Warren G. Harding,Republican,1922,62,2,Conservative,Stayed,Calvin Coolidge,Republican,1,Republican,Republican,Both,6,0,2
+1924,Presidential,Pierce Butler,Warren G. Harding,Republican,1923,58,1,Conservative,Stayed,Calvin Coolidge,Republican,1,Republican,Republican,Both,6,0,2
+1924,Presidential,Edward T. Sanford,Warren G. Harding,Republican,1923,59,1,Conservative,Stayed,Calvin Coolidge,Republican,1,Republican,Republican,Both,6,0,2
+1926,Mid-term,Oliver Wendell Holmes Jr.,Theodore Roosevelt,Republican,1902,85,24,Liberal,Stayed,Calvin Coolidge,Republican,2,Republican,Republican,Both,6,1,1
+1926,Mid-term,Willis Van Devanter,William Howard Taft,Republican,1911,67,15,Conservative,Stayed,Calvin Coolidge,Republican,2,Republican,Republican,Both,5,1,2
+1926,Mid-term,James Clark McReynolds,Woodrow Wilson,Democratic,1914,64,12,Conservative,Stayed,Calvin Coolidge,Republican,2,Republican,Republican,Both,5,1,2
+1926,Mid-term,Louis Brandeis,Woodrow Wilson,Democratic,1916,70,10,Liberal,Stayed,Calvin Coolidge,Republican,2,Republican,Republican,Both,6,1,1
+1926,Mid-term,William Howard Taft,Warren G. Harding,Republican,1921,69,5,Conservative,Stayed,Calvin Coolidge,Republican,2,Republican,Republican,Both,5,1,2
+1926,Mid-term,George Sutherland,Warren G. Harding,Republican,1922,64,4,Conservative,Stayed,Calvin Coolidge,Republican,2,Republican,Republican,Both,5,1,2
+1926,Mid-term,Pierce Butler,Warren G. Harding,Republican,1923,60,3,Conservative,Stayed,Calvin Coolidge,Republican,2,Republican,Republican,Both,5,1,2
+1926,Mid-term,Edward T. Sanford,Warren G. Harding,Republican,1923,61,3,Conservative,Stayed,Calvin Coolidge,Republican,2,Republican,Republican,Both,5,1,2
+1926,Mid-term,Harlan F. Stone,Calvin Coolidge,Republican,1925,54,1,Moderate,Stayed,Calvin Coolidge,Republican,2,Republican,Republican,Both,6,0,2
+1928,Presidential,Oliver Wendell Holmes Jr.,Theodore Roosevelt,Republican,1902,87,26,Liberal,Stayed,Calvin Coolidge,Republican,2,Republican,Republican,Both,6,1,1
+1928,Presidential,Willis Van Devanter,William Howard Taft,Republican,1911,69,17,Conservative,Stayed,Calvin Coolidge,Republican,2,Republican,Republican,Both,5,1,2
+1928,Presidential,James Clark McReynolds,Woodrow Wilson,Democratic,1914,66,14,Conservative,Stayed,Calvin Coolidge,Republican,2,Republican,Republican,Both,5,1,2
+1928,Presidential,Louis Brandeis,Woodrow Wilson,Democratic,1916,72,12,Liberal,Stayed,Calvin Coolidge,Republican,2,Republican,Republican,Both,6,1,1
+1928,Presidential,William Howard Taft,Warren G. Harding,Republican,1921,71,7,Conservative,Stayed,Calvin Coolidge,Republican,2,Republican,Republican,Both,5,1,2
+1928,Presidential,George Sutherland,Warren G. Harding,Republican,1922,66,6,Conservative,Stayed,Calvin Coolidge,Republican,2,Republican,Republican,Both,5,1,2
+1928,Presidential,Pierce Butler,Warren G. Harding,Republican,1923,62,5,Conservative,Stayed,Calvin Coolidge,Republican,2,Republican,Republican,Both,5,1,2
+1928,Presidential,Edward T. Sanford,Warren G. Harding,Republican,1923,63,5,Conservative,Stayed,Calvin Coolidge,Republican,2,Republican,Republican,Both,5,1,2
+1928,Presidential,Harlan F. Stone,Calvin Coolidge,Republican,1925,56,3,Moderate,Stayed,Calvin Coolidge,Republican,2,Republican,Republican,Both,6,0,2
+1930,Mid-term,Oliver Wendell Holmes Jr.,Theodore Roosevelt,Republican,1902,89,28,Liberal,Stayed,Herbert Hoover,Republican,1,Republican,Republican,Both,6,3,1
+1930,Mid-term,Willis Van Devanter,William Howard Taft,Republican,1911,71,19,Conservative,Stayed,Herbert Hoover,Republican,1,Republican,Republican,Both,5,3,2
+1930,Mid-term,James Clark McReynolds,Woodrow Wilson,Democratic,1914,68,16,Conservative,Stayed,Herbert Hoover,Republican,1,Republican,Republican,Both,5,3,2
+1930,Mid-term,Louis Brandeis,Woodrow Wilson,Democratic,1916,74,14,Liberal,Stayed,Herbert Hoover,Republican,1,Republican,Republican,Both,6,3,1
+1930,Mid-term,William Howard Taft,Warren G. Harding,Republican,1921,73,9,Conservative,Left - Retired (Voluntary),Herbert Hoover,Republican,1,Republican,Republican,Both,5,3,2
+1930,Mid-term,George Sutherland,Warren G. Harding,Republican,1922,68,8,Conservative,Stayed,Herbert Hoover,Republican,1,Republican,Republican,Both,5,3,2
+1930,Mid-term,Pierce Butler,Warren G. Harding,Republican,1923,64,7,Conservative,Stayed,Herbert Hoover,Republican,1,Republican,Republican,Both,5,3,2
+1930,Mid-term,Edward T. Sanford,Warren G. Harding,Republican,1923,65,7,Conservative,Left - Died (Involuntary),Herbert Hoover,Republican,1,Republican,Republican,Both,5,3,2
+1930,Mid-term,Harlan F. Stone,Calvin Coolidge,Republican,1925,58,5,Moderate,Stayed,Herbert Hoover,Republican,1,Republican,Republican,Both,6,2,2
+1930,Mid-term,Charles Evans Hughes CJ,Herbert Hoover,Republican,1930,68,0,Moderate,Stayed,Herbert Hoover,Republican,1,Republican,Republican,Both,6,2,2
+1930,Mid-term,Owen Roberts,Herbert Hoover,Republican,1930,55,0,Moderate,Stayed,Herbert Hoover,Republican,1,Republican,Republican,Both,6,2,2
+1932,Presidential,Oliver Wendell Holmes Jr.,Theodore Roosevelt,Republican,1902,91,30,Liberal,Left - Retired (Voluntary),Herbert Hoover,Republican,1,Democratic,Republican,Senate Only,4,3,2
+1932,Presidential,Willis Van Devanter,William Howard Taft,Republican,1911,73,21,Conservative,Stayed,Herbert Hoover,Republican,1,Democratic,Republican,Senate Only,3,3,3
+1932,Presidential,James Clark McReynolds,Woodrow Wilson,Democratic,1914,70,18,Conservative,Stayed,Herbert Hoover,Republican,1,Democratic,Republican,Senate Only,3,3,3
+1932,Presidential,Louis Brandeis,Woodrow Wilson,Democratic,1916,76,16,Liberal,Stayed,Herbert Hoover,Republican,1,Democratic,Republican,Senate Only,4,3,2
+1932,Presidential,George Sutherland,Warren G. Harding,Republican,1922,70,10,Conservative,Stayed,Herbert Hoover,Republican,1,Democratic,Republican,Senate Only,3,3,3
+1932,Presidential,Pierce Butler,Warren G. Harding,Republican,1923,66,9,Conservative,Stayed,Herbert Hoover,Republican,1,Democratic,Republican,Senate Only,3,3,3
+1932,Presidential,Harlan F. Stone,Calvin Coolidge,Republican,1925,60,7,Moderate,Stayed,Herbert Hoover,Republican,1,Democratic,Republican,Senate Only,4,2,3
+1932,Presidential,Charles Evans Hughes CJ,Herbert Hoover,Republican,1930,70,2,Moderate,Stayed,Herbert Hoover,Republican,1,Democratic,Republican,Senate Only,4,2,3
+1932,Presidential,Owen Roberts,Herbert Hoover,Republican,1930,57,2,Moderate,Stayed,Herbert Hoover,Republican,1,Democratic,Republican,Senate Only,4,2,3
+1932,Presidential,Benjamin Cardozo,Herbert Hoover,Republican,1932,62,0,Liberal,Stayed,Herbert Hoover,Republican,1,Democratic,Republican,Senate Only,4,3,2
+1934,Mid-term,Willis Van Devanter,William Howard Taft,Republican,1911,75,23,Conservative,Stayed,Franklin D. Roosevelt,Democratic,1,Democratic,Democratic,Both,3,3,2
+1934,Mid-term,James Clark McReynolds,Woodrow Wilson,Democratic,1914,72,20,Conservative,Stayed,Franklin D. Roosevelt,Democratic,1,Democratic,Democratic,Both,3,3,2
+1934,Mid-term,Louis Brandeis,Woodrow Wilson,Democratic,1916,78,18,Liberal,Stayed,Franklin D. Roosevelt,Democratic,1,Democratic,Democratic,Both,4,3,1
+1934,Mid-term,George Sutherland,Warren G. Harding,Republican,1922,72,12,Conservative,Stayed,Franklin D. Roosevelt,Democratic,1,Democratic,Democratic,Both,3,3,2
+1934,Mid-term,Pierce Butler,Warren G. Harding,Republican,1923,68,11,Conservative,Stayed,Franklin D. Roosevelt,Democratic,1,Democratic,Democratic,Both,3,3,2
+1934,Mid-term,Harlan F. Stone,Calvin Coolidge,Republican,1925,62,9,Moderate,Stayed,Franklin D. Roosevelt,Democratic,1,Democratic,Democratic,Both,4,2,2
+1934,Mid-term,Charles Evans Hughes CJ,Herbert Hoover,Republican,1930,72,4,Moderate,Stayed,Franklin D. Roosevelt,Democratic,1,Democratic,Democratic,Both,4,2,2
+1934,Mid-term,Owen Roberts,Herbert Hoover,Republican,1930,59,4,Moderate,Stayed,Franklin D. Roosevelt,Democratic,1,Democratic,Democratic,Both,4,2,2
+1934,Mid-term,Benjamin Cardozo,Herbert Hoover,Republican,1932,64,2,Liberal,Stayed,Franklin D. Roosevelt,Democratic,1,Democratic,Democratic,Both,4,3,1
+1936,Presidential,Willis Van Devanter,William Howard Taft,Republican,1911,77,25,Conservative,Stayed,Franklin D. Roosevelt,Democratic,1,Democratic,Democratic,Both,3,3,2
+1936,Presidential,James Clark McReynolds,Woodrow Wilson,Democratic,1914,74,22,Conservative,Stayed,Franklin D. Roosevelt,Democratic,1,Democratic,Democratic,Both,3,3,2
+1936,Presidential,Louis Brandeis,Woodrow Wilson,Democratic,1916,80,20,Liberal,Stayed,Franklin D. Roosevelt,Democratic,1,Democratic,Democratic,Both,4,3,1
+1936,Presidential,George Sutherland,Warren G. Harding,Republican,1922,74,14,Conservative,Stayed,Franklin D. Roosevelt,Democratic,1,Democratic,Democratic,Both,3,3,2
+1936,Presidential,Pierce Butler,Warren G. Harding,Republican,1923,70,13,Conservative,Stayed,Franklin D. Roosevelt,Democratic,1,Democratic,Democratic,Both,3,3,2
+1936,Presidential,Harlan F. Stone,Calvin Coolidge,Republican,1925,64,11,Moderate,Stayed,Franklin D. Roosevelt,Democratic,1,Democratic,Democratic,Both,4,2,2
+1936,Presidential,Charles Evans Hughes CJ,Herbert Hoover,Republican,1930,74,6,Moderate,Stayed,Franklin D. Roosevelt,Democratic,1,Democratic,Democratic,Both,4,2,2
+1936,Presidential,Owen Roberts,Herbert Hoover,Republican,1930,61,6,Moderate,Stayed,Franklin D. Roosevelt,Democratic,1,Democratic,Democratic,Both,4,2,2
+1936,Presidential,Benjamin Cardozo,Herbert Hoover,Republican,1932,66,4,Liberal,Stayed,Franklin D. Roosevelt,Democratic,1,Democratic,Democratic,Both,4,3,1
+1938,Mid-term,James Clark McReynolds,Woodrow Wilson,Democratic,1914,76,24,Conservative,Stayed,Franklin D. Roosevelt,Democratic,2,Democratic,Democratic,Both,2,4,3
+1938,Mid-term,Louis Brandeis,Woodrow Wilson,Democratic,1916,82,22,Liberal,Stayed,Franklin D. Roosevelt,Democratic,2,Democratic,Democratic,Both,3,4,2
+1938,Mid-term,George Sutherland,Warren G. Harding,Republican,1922,76,16,Conservative,Left - Retired (Voluntary),Franklin D. Roosevelt,Democratic,2,Democratic,Democratic,Both,2,4,3
+1938,Mid-term,Pierce Butler,Warren G. Harding,Republican,1923,72,15,Conservative,Stayed,Franklin D. Roosevelt,Democratic,2,Democratic,Democratic,Both,2,4,3
+1938,Mid-term,Harlan F. Stone,Calvin Coolidge,Republican,1925,66,13,Moderate,Stayed,Franklin D. Roosevelt,Democratic,2,Democratic,Democratic,Both,3,3,3
+1938,Mid-term,Charles Evans Hughes CJ,Herbert Hoover,Republican,1930,76,8,Moderate,Stayed,Franklin D. Roosevelt,Democratic,2,Democratic,Democratic,Both,3,3,3
+1938,Mid-term,Owen Roberts,Herbert Hoover,Republican,1930,63,8,Moderate,Stayed,Franklin D. Roosevelt,Democratic,2,Democratic,Democratic,Both,3,3,3
+1938,Mid-term,Benjamin Cardozo,Herbert Hoover,Republican,1932,68,6,Liberal,Left - Died (Involuntary),Franklin D. Roosevelt,Democratic,2,Democratic,Democratic,Both,3,4,2
+1938,Mid-term,Hugo Black,Franklin D. Roosevelt,Democratic,1937,52,1,Liberal,Stayed,Franklin D. Roosevelt,Democratic,2,Democratic,Democratic,Both,3,4,2
+1938,Mid-term,Stanley F. Reed,Franklin D. Roosevelt,Democratic,1938,54,0,Moderate,Stayed,Franklin D. Roosevelt,Democratic,2,Democratic,Democratic,Both,3,3,3
+1940,Presidential,James Clark McReynolds,Woodrow Wilson,Democratic,1914,78,26,Conservative,Stayed,Franklin D. Roosevelt,Democratic,2,Democratic,Democratic,Both,0,5,3
+1940,Presidential,Harlan F. Stone,Calvin Coolidge,Republican,1925,68,15,Moderate,Stayed,Franklin D. Roosevelt,Democratic,2,Democratic,Democratic,Both,1,4,3
+1940,Presidential,Charles Evans Hughes CJ,Herbert Hoover,Republican,1930,78,10,Moderate,Stayed,Franklin D. Roosevelt,Democratic,2,Democratic,Democratic,Both,1,4,3
+1940,Presidential,Owen Roberts,Herbert Hoover,Republican,1930,65,10,Moderate,Stayed,Franklin D. Roosevelt,Democratic,2,Democratic,Democratic,Both,1,4,3
+1940,Presidential,Hugo Black,Franklin D. Roosevelt,Democratic,1937,54,3,Liberal,Stayed,Franklin D. Roosevelt,Democratic,2,Democratic,Democratic,Both,1,5,2
+1940,Presidential,Stanley F. Reed,Franklin D. Roosevelt,Democratic,1938,56,2,Moderate,Stayed,Franklin D. Roosevelt,Democratic,2,Democratic,Democratic,Both,1,4,3
+1940,Presidential,Felix Frankfurter,Franklin D. Roosevelt,Democratic,1939,58,1,Moderate,Stayed,Franklin D. Roosevelt,Democratic,2,Democratic,Democratic,Both,1,4,3
+1940,Presidential,William O. Douglas,Franklin D. Roosevelt,Democratic,1939,42,1,Liberal,Stayed,Franklin D. Roosevelt,Democratic,2,Democratic,Democratic,Both,1,5,2
+1940,Presidential,Frank Murphy,Franklin D. Roosevelt,Democratic,1940,50,0,Liberal,Stayed,Franklin D. Roosevelt,Democratic,2,Democratic,Democratic,Both,1,5,2
+1942,Mid-term,Harlan F. Stone,Calvin Coolidge,Republican,1925,70,17,Moderate,Stayed,Franklin D. Roosevelt,Democratic,3,Democratic,Democratic,Both,0,4,4
+1942,Mid-term,Owen Roberts,Herbert Hoover,Republican,1930,67,12,Moderate,Stayed,Franklin D. Roosevelt,Democratic,3,Democratic,Democratic,Both,0,4,4
+1942,Mid-term,Hugo Black,Franklin D. Roosevelt,Democratic,1937,56,5,Liberal,Stayed,Franklin D. Roosevelt,Democratic,3,Democratic,Democratic,Both,0,5,3
+1942,Mid-term,Stanley F. Reed,Franklin D. Roosevelt,Democratic,1938,58,4,Moderate,Stayed,Franklin D. Roosevelt,Democratic,3,Democratic,Democratic,Both,0,4,4
+1942,Mid-term,Felix Frankfurter,Franklin D. Roosevelt,Democratic,1939,60,3,Moderate,Stayed,Franklin D. Roosevelt,Democratic,3,Democratic,Democratic,Both,0,4,4
+1942,Mid-term,William O. Douglas,Franklin D. Roosevelt,Democratic,1939,44,3,Liberal,Stayed,Franklin D. Roosevelt,Democratic,3,Democratic,Democratic,Both,0,5,3
+1942,Mid-term,Frank Murphy,Franklin D. Roosevelt,Democratic,1940,52,2,Liberal,Stayed,Franklin D. Roosevelt,Democratic,3,Democratic,Democratic,Both,0,5,3
+1942,Mid-term,James F. Byrnes,Franklin D. Roosevelt,Democratic,1941,60,1,Moderate,Left - Resigned (Voluntary),Franklin D. Roosevelt,Democratic,3,Democratic,Democratic,Both,0,4,4
+1942,Mid-term,Robert H. Jackson,Franklin D. Roosevelt,Democratic,1941,50,1,Liberal,Stayed,Franklin D. Roosevelt,Democratic,3,Democratic,Democratic,Both,0,5,3
+1944,Presidential,Harlan F. Stone,Calvin Coolidge,Republican,1925,72,19,Moderate,Stayed,Franklin D. Roosevelt,Democratic,3,Democratic,Democratic,Both,0,3,5
+1944,Presidential,Owen Roberts,Herbert Hoover,Republican,1930,69,14,Moderate,Stayed,Franklin D. Roosevelt,Democratic,3,Democratic,Democratic,Both,0,3,5
+1944,Presidential,Hugo Black,Franklin D. Roosevelt,Democratic,1937,58,7,Liberal,Stayed,Franklin D. Roosevelt,Democratic,3,Democratic,Democratic,Both,0,4,4
+1944,Presidential,Stanley F. Reed,Franklin D. Roosevelt,Democratic,1938,60,6,Moderate,Stayed,Franklin D. Roosevelt,Democratic,3,Democratic,Democratic,Both,0,3,5
+1944,Presidential,Felix Frankfurter,Franklin D. Roosevelt,Democratic,1939,62,5,Moderate,Stayed,Franklin D. Roosevelt,Democratic,3,Democratic,Democratic,Both,0,3,5
+1944,Presidential,William O. Douglas,Franklin D. Roosevelt,Democratic,1939,46,5,Liberal,Stayed,Franklin D. Roosevelt,Democratic,3,Democratic,Democratic,Both,0,4,4
+1944,Presidential,Frank Murphy,Franklin D. Roosevelt,Democratic,1940,54,4,Liberal,Stayed,Franklin D. Roosevelt,Democratic,3,Democratic,Democratic,Both,0,4,4
+1944,Presidential,Robert H. Jackson,Franklin D. Roosevelt,Democratic,1941,52,3,Liberal,Stayed,Franklin D. Roosevelt,Democratic,3,Democratic,Democratic,Both,0,4,4
+1944,Presidential,Wiley Rutledge,Franklin D. Roosevelt,Democratic,1943,50,1,Liberal,Stayed,Franklin D. Roosevelt,Democratic,3,Democratic,Democratic,Both,0,4,4
+1946,Mid-term,Harlan F. Stone,Calvin Coolidge,Republican,1925,74,21,Moderate,Left - Died (Involuntary),Harry S. Truman,Democratic,1,Democratic,Democratic,Both,0,4,5
+1946,Mid-term,Hugo Black,Franklin D. Roosevelt,Democratic,1937,60,9,Liberal,Stayed,Harry S. Truman,Democratic,1,Democratic,Democratic,Both,0,5,4
+1946,Mid-term,Stanley F. Reed,Franklin D. Roosevelt,Democratic,1938,62,8,Moderate,Stayed,Harry S. Truman,Democratic,1,Democratic,Democratic,Both,0,4,5
+1946,Mid-term,Felix Frankfurter,Franklin D. Roosevelt,Democratic,1939,64,7,Moderate,Stayed,Harry S. Truman,Democratic,1,Democratic,Democratic,Both,0,4,5
+1946,Mid-term,William O. Douglas,Franklin D. Roosevelt,Democratic,1939,48,7,Liberal,Stayed,Harry S. Truman,Democratic,1,Democratic,Democratic,Both,0,5,4
+1946,Mid-term,Frank Murphy,Franklin D. Roosevelt,Democratic,1940,56,6,Liberal,Stayed,Harry S. Truman,Democratic,1,Democratic,Democratic,Both,0,5,4
+1946,Mid-term,Robert H. Jackson,Franklin D. Roosevelt,Democratic,1941,54,5,Liberal,Stayed,Harry S. Truman,Democratic,1,Democratic,Democratic,Both,0,5,4
+1946,Mid-term,Wiley Rutledge,Franklin D. Roosevelt,Democratic,1943,52,3,Liberal,Stayed,Harry S. Truman,Democratic,1,Democratic,Democratic,Both,0,5,4
+1946,Mid-term,Harold H. Burton,Harry S. Truman,Democratic,1945,58,1,Moderate,Stayed,Harry S. Truman,Democratic,1,Democratic,Democratic,Both,0,4,5
+1946,Mid-term,Fred M. Vinson,Harry S. Truman,Democratic,1946,56,0,Moderate,Stayed,Harry S. Truman,Democratic,1,Democratic,Democratic,Both,0,4,5
+1948,Presidential,Hugo Black,Franklin D. Roosevelt,Democratic,1937,62,11,Liberal,Stayed,Harry S. Truman,Democratic,1,Republican,Republican,Neither,0,4,4
+1948,Presidential,Stanley F. Reed,Franklin D. Roosevelt,Democratic,1938,64,10,Moderate,Stayed,Harry S. Truman,Democratic,1,Republican,Republican,Neither,0,3,5
+1948,Presidential,Felix Frankfurter,Franklin D. Roosevelt,Democratic,1939,66,9,Moderate,Stayed,Harry S. Truman,Democratic,1,Republican,Republican,Neither,0,3,5
+1948,Presidential,William O. Douglas,Franklin D. Roosevelt,Democratic,1939,50,9,Liberal,Stayed,Harry S. Truman,Democratic,1,Republican,Republican,Neither,0,4,4
+1948,Presidential,Frank Murphy,Franklin D. Roosevelt,Democratic,1940,58,8,Liberal,Stayed,Harry S. Truman,Democratic,1,Republican,Republican,Neither,0,4,4
+1948,Presidential,Robert H. Jackson,Franklin D. Roosevelt,Democratic,1941,56,7,Liberal,Stayed,Harry S. Truman,Democratic,1,Republican,Republican,Neither,0,4,4
+1948,Presidential,Wiley Rutledge,Franklin D. Roosevelt,Democratic,1943,54,5,Liberal,Stayed,Harry S. Truman,Democratic,1,Republican,Republican,Neither,0,4,4
+1948,Presidential,Harold H. Burton,Harry S. Truman,Democratic,1945,60,3,Moderate,Stayed,Harry S. Truman,Democratic,1,Republican,Republican,Neither,0,3,5
+1948,Presidential,Fred M. Vinson,Harry S. Truman,Democratic,1946,58,2,Moderate,Stayed,Harry S. Truman,Democratic,1,Republican,Republican,Neither,0,3,5
+1950,Mid-term,Hugo Black,Franklin D. Roosevelt,Democratic,1937,64,13,Liberal,Stayed,Harry S. Truman,Democratic,2,Democratic,Democratic,Both,0,5,3
+1950,Mid-term,Stanley F. Reed,Franklin D. Roosevelt,Democratic,1938,66,12,Moderate,Stayed,Harry S. Truman,Democratic,2,Democratic,Democratic,Both,0,4,4
+1950,Mid-term,Felix Frankfurter,Franklin D. Roosevelt,Democratic,1939,68,11,Moderate,Stayed,Harry S. Truman,Democratic,2,Democratic,Democratic,Both,0,4,4
+1950,Mid-term,William O. Douglas,Franklin D. Roosevelt,Democratic,1939,52,11,Liberal,Stayed,Harry S. Truman,Democratic,2,Democratic,Democratic,Both,0,5,3
+1950,Mid-term,Robert H. Jackson,Franklin D. Roosevelt,Democratic,1941,58,9,Liberal,Stayed,Harry S. Truman,Democratic,2,Democratic,Democratic,Both,0,5,3
+1950,Mid-term,Harold H. Burton,Harry S. Truman,Democratic,1945,62,5,Moderate,Stayed,Harry S. Truman,Democratic,2,Democratic,Democratic,Both,0,4,4
+1950,Mid-term,Fred M. Vinson,Harry S. Truman,Democratic,1946,60,4,Moderate,Stayed,Harry S. Truman,Democratic,2,Democratic,Democratic,Both,0,4,4
+1950,Mid-term,Tom C. Clark,Harry S. Truman,Democratic,1949,51,1,Moderate,Stayed,Harry S. Truman,Democratic,2,Democratic,Democratic,Both,0,4,4
+1950,Mid-term,Sherman Minton,Harry S. Truman,Democratic,1949,60,1,Liberal,Stayed,Harry S. Truman,Democratic,2,Democratic,Democratic,Both,0,5,3
+1952,Presidential,Hugo Black,Franklin D. Roosevelt,Democratic,1937,66,15,Liberal,Stayed,Harry S. Truman,Democratic,2,Democratic,Democratic,Both,0,5,3
+1952,Presidential,Stanley F. Reed,Franklin D. Roosevelt,Democratic,1938,68,14,Moderate,Stayed,Harry S. Truman,Democratic,2,Democratic,Democratic,Both,0,4,4
+1952,Presidential,Felix Frankfurter,Franklin D. Roosevelt,Democratic,1939,70,13,Moderate,Stayed,Harry S. Truman,Democratic,2,Democratic,Democratic,Both,0,4,4
+1952,Presidential,William O. Douglas,Franklin D. Roosevelt,Democratic,1939,54,13,Liberal,Stayed,Harry S. Truman,Democratic,2,Democratic,Democratic,Both,0,5,3
+1952,Presidential,Robert H. Jackson,Franklin D. Roosevelt,Democratic,1941,60,11,Liberal,Stayed,Harry S. Truman,Democratic,2,Democratic,Democratic,Both,0,5,3
+1952,Presidential,Harold H. Burton,Harry S. Truman,Democratic,1945,64,7,Moderate,Stayed,Harry S. Truman,Democratic,2,Democratic,Democratic,Both,0,4,4
+1952,Presidential,Fred M. Vinson,Harry S. Truman,Democratic,1946,62,6,Moderate,Stayed,Harry S. Truman,Democratic,2,Democratic,Democratic,Both,0,4,4
+1952,Presidential,Tom C. Clark,Harry S. Truman,Democratic,1949,53,3,Moderate,Stayed,Harry S. Truman,Democratic,2,Democratic,Democratic,Both,0,4,4
+1952,Presidential,Sherman Minton,Harry S. Truman,Democratic,1949,62,3,Liberal,Stayed,Harry S. Truman,Democratic,2,Democratic,Democratic,Both,0,5,3
+1954,Mid-term,Hugo Black,Franklin D. Roosevelt,Democratic,1937,68,17,Liberal,Stayed,Dwight D. Eisenhower,Republican,1,Republican,Republican,Both,0,4,4
+1954,Mid-term,Stanley F. Reed,Franklin D. Roosevelt,Democratic,1938,70,16,Moderate,Stayed,Dwight D. Eisenhower,Republican,1,Republican,Republican,Both,0,3,5
+1954,Mid-term,Felix Frankfurter,Franklin D. Roosevelt,Democratic,1939,72,15,Moderate,Stayed,Dwight D. Eisenhower,Republican,1,Republican,Republican,Both,0,3,5
+1954,Mid-term,William O. Douglas,Franklin D. Roosevelt,Democratic,1939,56,15,Liberal,Stayed,Dwight D. Eisenhower,Republican,1,Republican,Republican,Both,0,4,4
+1954,Mid-term,Robert H. Jackson,Franklin D. Roosevelt,Democratic,1941,62,13,Liberal,Left - Died (Involuntary),Dwight D. Eisenhower,Republican,1,Republican,Republican,Both,0,4,4
+1954,Mid-term,Harold H. Burton,Harry S. Truman,Democratic,1945,66,9,Moderate,Stayed,Dwight D. Eisenhower,Republican,1,Republican,Republican,Both,0,3,5
+1954,Mid-term,Tom C. Clark,Harry S. Truman,Democratic,1949,55,5,Moderate,Stayed,Dwight D. Eisenhower,Republican,1,Republican,Republican,Both,0,3,5
+1954,Mid-term,Sherman Minton,Harry S. Truman,Democratic,1949,64,5,Liberal,Stayed,Dwight D. Eisenhower,Republican,1,Republican,Republican,Both,0,4,4
+1954,Mid-term,Earl Warren,Dwight D. Eisenhower,Republican,1953,63,1,Liberal,Stayed,Dwight D. Eisenhower,Republican,1,Republican,Republican,Both,0,4,4
+1956,Presidential,Hugo Black,Franklin D. Roosevelt,Democratic,1937,70,19,Liberal,Stayed,Dwight D. Eisenhower,Republican,1,Democratic,Democratic,Neither,1,4,4
+1956,Presidential,Stanley F. Reed,Franklin D. Roosevelt,Democratic,1938,72,18,Moderate,Stayed,Dwight D. Eisenhower,Republican,1,Democratic,Democratic,Neither,1,3,5
+1956,Presidential,Felix Frankfurter,Franklin D. Roosevelt,Democratic,1939,74,17,Moderate,Stayed,Dwight D. Eisenhower,Republican,1,Democratic,Democratic,Neither,1,3,5
+1956,Presidential,William O. Douglas,Franklin D. Roosevelt,Democratic,1939,58,17,Liberal,Stayed,Dwight D. Eisenhower,Republican,1,Democratic,Democratic,Neither,1,4,4
+1956,Presidential,Harold H. Burton,Harry S. Truman,Democratic,1945,68,11,Moderate,Stayed,Dwight D. Eisenhower,Republican,1,Democratic,Democratic,Neither,1,3,5
+1956,Presidential,Tom C. Clark,Harry S. Truman,Democratic,1949,57,7,Moderate,Stayed,Dwight D. Eisenhower,Republican,1,Democratic,Democratic,Neither,1,3,5
+1956,Presidential,Sherman Minton,Harry S. Truman,Democratic,1949,66,7,Liberal,Left - Retired (Voluntary),Dwight D. Eisenhower,Republican,1,Democratic,Democratic,Neither,1,4,4
+1956,Presidential,Earl Warren,Dwight D. Eisenhower,Republican,1953,65,3,Liberal,Stayed,Dwight D. Eisenhower,Republican,1,Democratic,Democratic,Neither,1,4,4
+1956,Presidential,John Marshall Harlan II,Dwight D. Eisenhower,Republican,1955,57,1,Conservative,Stayed,Dwight D. Eisenhower,Republican,1,Democratic,Democratic,Neither,0,4,5
+1956,Presidential,William J. Brennan Jr.,Dwight D. Eisenhower,Republican,1956,50,0,Liberal,Stayed,Dwight D. Eisenhower,Republican,1,Democratic,Democratic,Neither,1,4,4
+1958,Mid-term,Hugo Black,Franklin D. Roosevelt,Democratic,1937,72,21,Liberal,Stayed,Dwight D. Eisenhower,Republican,2,Democratic,Democratic,Neither,2,4,3
+1958,Mid-term,Felix Frankfurter,Franklin D. Roosevelt,Democratic,1939,76,19,Moderate,Stayed,Dwight D. Eisenhower,Republican,2,Democratic,Democratic,Neither,2,3,4
+1958,Mid-term,William O. Douglas,Franklin D. Roosevelt,Democratic,1939,60,19,Liberal,Stayed,Dwight D. Eisenhower,Republican,2,Democratic,Democratic,Neither,2,4,3
+1958,Mid-term,Harold H. Burton,Harry S. Truman,Democratic,1945,70,13,Moderate,Left - Retired (Voluntary),Dwight D. Eisenhower,Republican,2,Democratic,Democratic,Neither,2,3,4
+1958,Mid-term,Tom C. Clark,Harry S. Truman,Democratic,1949,59,9,Moderate,Stayed,Dwight D. Eisenhower,Republican,2,Democratic,Democratic,Neither,2,3,4
+1958,Mid-term,Earl Warren,Dwight D. Eisenhower,Republican,1953,67,5,Liberal,Stayed,Dwight D. Eisenhower,Republican,2,Democratic,Democratic,Neither,2,4,3
+1958,Mid-term,John Marshall Harlan II,Dwight D. Eisenhower,Republican,1955,59,3,Conservative,Stayed,Dwight D. Eisenhower,Republican,2,Democratic,Democratic,Neither,1,4,4
+1958,Mid-term,William J. Brennan Jr.,Dwight D. Eisenhower,Republican,1956,52,2,Liberal,Stayed,Dwight D. Eisenhower,Republican,2,Democratic,Democratic,Neither,2,4,3
+1958,Mid-term,Charles E. Whittaker,Dwight D. Eisenhower,Republican,1957,57,1,Conservative,Stayed,Dwight D. Eisenhower,Republican,2,Democratic,Democratic,Neither,1,4,4
+1958,Mid-term,Potter Stewart,Dwight D. Eisenhower,Republican,1958,43,0,Moderate,Stayed,Dwight D. Eisenhower,Republican,2,Democratic,Democratic,Neither,2,3,4
+1960,Presidential,Hugo Black,Franklin D. Roosevelt,Democratic,1937,74,23,Liberal,Stayed,Dwight D. Eisenhower,Republican,2,Democratic,Democratic,Neither,2,3,3
+1960,Presidential,Felix Frankfurter,Franklin D. Roosevelt,Democratic,1939,78,21,Moderate,Stayed,Dwight D. Eisenhower,Republican,2,Democratic,Democratic,Neither,2,2,4
+1960,Presidential,William O. Douglas,Franklin D. Roosevelt,Democratic,1939,62,21,Liberal,Stayed,Dwight D. Eisenhower,Republican,2,Democratic,Democratic,Neither,2,3,3
+1960,Presidential,Tom C. Clark,Harry S. Truman,Democratic,1949,61,11,Moderate,Stayed,Dwight D. Eisenhower,Republican,2,Democratic,Democratic,Neither,2,2,4
+1960,Presidential,Earl Warren,Dwight D. Eisenhower,Republican,1953,69,7,Liberal,Stayed,Dwight D. Eisenhower,Republican,2,Democratic,Democratic,Neither,2,3,3
+1960,Presidential,John Marshall Harlan II,Dwight D. Eisenhower,Republican,1955,61,5,Conservative,Stayed,Dwight D. Eisenhower,Republican,2,Democratic,Democratic,Neither,1,3,4
+1960,Presidential,William J. Brennan Jr.,Dwight D. Eisenhower,Republican,1956,54,4,Liberal,Stayed,Dwight D. Eisenhower,Republican,2,Democratic,Democratic,Neither,2,3,3
+1960,Presidential,Charles E. Whittaker,Dwight D. Eisenhower,Republican,1957,59,3,Conservative,Stayed,Dwight D. Eisenhower,Republican,2,Democratic,Democratic,Neither,1,3,4
+1960,Presidential,Potter Stewart,Dwight D. Eisenhower,Republican,1958,45,2,Moderate,Stayed,Dwight D. Eisenhower,Republican,2,Democratic,Democratic,Neither,2,2,4
+1962,Mid-term,Hugo Black,Franklin D. Roosevelt,Democratic,1937,76,25,Liberal,Stayed,John F. Kennedy,Democratic,1,Democratic,Democratic,Both,2,4,4
+1962,Mid-term,Felix Frankfurter,Franklin D. Roosevelt,Democratic,1939,80,23,Moderate,Left - Retired (Voluntary),John F. Kennedy,Democratic,1,Democratic,Democratic,Both,2,3,5
+1962,Mid-term,William O. Douglas,Franklin D. Roosevelt,Democratic,1939,64,23,Liberal,Stayed,John F. Kennedy,Democratic,1,Democratic,Democratic,Both,2,4,4
+1962,Mid-term,Tom C. Clark,Harry S. Truman,Democratic,1949,63,13,Moderate,Stayed,John F. Kennedy,Democratic,1,Democratic,Democratic,Both,2,3,5
+1962,Mid-term,Earl Warren,Dwight D. Eisenhower,Republican,1953,71,9,Liberal,Stayed,John F. Kennedy,Democratic,1,Democratic,Democratic,Both,2,4,4
+1962,Mid-term,John Marshall Harlan II,Dwight D. Eisenhower,Republican,1955,63,7,Conservative,Stayed,John F. Kennedy,Democratic,1,Democratic,Democratic,Both,1,4,5
+1962,Mid-term,William J. Brennan Jr.,Dwight D. Eisenhower,Republican,1956,56,6,Liberal,Stayed,John F. Kennedy,Democratic,1,Democratic,Democratic,Both,2,4,4
+1962,Mid-term,Charles E. Whittaker,Dwight D. Eisenhower,Republican,1957,61,5,Conservative,Left - Retired (Voluntary),John F. Kennedy,Democratic,1,Democratic,Democratic,Both,1,4,5
+1962,Mid-term,Potter Stewart,Dwight D. Eisenhower,Republican,1958,47,4,Moderate,Stayed,John F. Kennedy,Democratic,1,Democratic,Democratic,Both,2,3,5
+1962,Mid-term,Byron White,John F. Kennedy,Democratic,1962,45,0,Moderate,Stayed,John F. Kennedy,Democratic,1,Democratic,Democratic,Both,2,3,5
+1962,Mid-term,Arthur Goldberg,John F. Kennedy,Democratic,1962,54,0,Liberal,Stayed,John F. Kennedy,Democratic,1,Democratic,Democratic,Both,2,4,4
+1964,Presidential,Hugo Black,Franklin D. Roosevelt,Democratic,1937,78,27,Liberal,Stayed,Lyndon B. Johnson,Democratic,1,Democratic,Democratic,Both,1,3,4
+1964,Presidential,William O. Douglas,Franklin D. Roosevelt,Democratic,1939,66,25,Liberal,Stayed,Lyndon B. Johnson,Democratic,1,Democratic,Democratic,Both,1,3,4
+1964,Presidential,Tom C. Clark,Harry S. Truman,Democratic,1949,65,15,Moderate,Stayed,Lyndon B. Johnson,Democratic,1,Democratic,Democratic,Both,1,2,5
+1964,Presidential,Earl Warren,Dwight D. Eisenhower,Republican,1953,73,11,Liberal,Stayed,Lyndon B. Johnson,Democratic,1,Democratic,Democratic,Both,1,3,4
+1964,Presidential,John Marshall Harlan II,Dwight D. Eisenhower,Republican,1955,65,9,Conservative,Stayed,Lyndon B. Johnson,Democratic,1,Democratic,Democratic,Both,0,3,5
+1964,Presidential,William J. Brennan Jr.,Dwight D. Eisenhower,Republican,1956,58,8,Liberal,Stayed,Lyndon B. Johnson,Democratic,1,Democratic,Democratic,Both,1,3,4
+1964,Presidential,Potter Stewart,Dwight D. Eisenhower,Republican,1958,49,6,Moderate,Stayed,Lyndon B. Johnson,Democratic,1,Democratic,Democratic,Both,1,2,5
+1964,Presidential,Byron White,John F. Kennedy,Democratic,1962,47,2,Moderate,Stayed,Lyndon B. Johnson,Democratic,1,Democratic,Democratic,Both,1,2,5
+1964,Presidential,Arthur Goldberg,John F. Kennedy,Democratic,1962,56,2,Liberal,Stayed,Lyndon B. Johnson,Democratic,1,Democratic,Democratic,Both,1,3,4
+1966,Mid-term,Hugo Black,Franklin D. Roosevelt,Democratic,1937,80,29,Liberal,Stayed,Lyndon B. Johnson,Democratic,2,Democratic,Democratic,Both,1,3,4
+1966,Mid-term,William O. Douglas,Franklin D. Roosevelt,Democratic,1939,68,27,Liberal,Stayed,Lyndon B. Johnson,Democratic,2,Democratic,Democratic,Both,1,3,4
+1966,Mid-term,Tom C. Clark,Harry S. Truman,Democratic,1949,67,17,Moderate,Stayed,Lyndon B. Johnson,Democratic,2,Democratic,Democratic,Both,1,2,5
+1966,Mid-term,Earl Warren,Dwight D. Eisenhower,Republican,1953,75,13,Liberal,Stayed,Lyndon B. Johnson,Democratic,2,Democratic,Democratic,Both,1,3,4
+1966,Mid-term,John Marshall Harlan II,Dwight D. Eisenhower,Republican,1955,67,11,Conservative,Stayed,Lyndon B. Johnson,Democratic,2,Democratic,Democratic,Both,0,3,5
+1966,Mid-term,William J. Brennan Jr.,Dwight D. Eisenhower,Republican,1956,60,10,Liberal,Stayed,Lyndon B. Johnson,Democratic,2,Democratic,Democratic,Both,1,3,4
+1966,Mid-term,Potter Stewart,Dwight D. Eisenhower,Republican,1958,51,8,Moderate,Stayed,Lyndon B. Johnson,Democratic,2,Democratic,Democratic,Both,1,2,5
+1966,Mid-term,Byron White,John F. Kennedy,Democratic,1962,49,4,Moderate,Stayed,Lyndon B. Johnson,Democratic,2,Democratic,Democratic,Both,1,2,5
+1966,Mid-term,Abe Fortas,Lyndon B. Johnson,Democratic,1965,56,1,Liberal,Stayed,Lyndon B. Johnson,Democratic,2,Democratic,Democratic,Both,1,3,4
+1968,Presidential,Hugo Black,Franklin D. Roosevelt,Democratic,1937,82,31,Liberal,Stayed,Lyndon B. Johnson,Democratic,2,Democratic,Democratic,Both,1,2,5
+1968,Presidential,William O. Douglas,Franklin D. Roosevelt,Democratic,1939,70,29,Liberal,Stayed,Lyndon B. Johnson,Democratic,2,Democratic,Democratic,Both,1,2,5
+1968,Presidential,Earl Warren,Dwight D. Eisenhower,Republican,1953,77,15,Liberal,Stayed,Lyndon B. Johnson,Democratic,2,Democratic,Democratic,Both,1,2,5
+1968,Presidential,John Marshall Harlan II,Dwight D. Eisenhower,Republican,1955,69,13,Conservative,Stayed,Lyndon B. Johnson,Democratic,2,Democratic,Democratic,Both,0,2,6
+1968,Presidential,William J. Brennan Jr.,Dwight D. Eisenhower,Republican,1956,62,12,Liberal,Stayed,Lyndon B. Johnson,Democratic,2,Democratic,Democratic,Both,1,2,5
+1968,Presidential,Potter Stewart,Dwight D. Eisenhower,Republican,1958,53,10,Moderate,Stayed,Lyndon B. Johnson,Democratic,2,Democratic,Democratic,Both,1,1,6
+1968,Presidential,Byron White,John F. Kennedy,Democratic,1962,51,6,Moderate,Stayed,Lyndon B. Johnson,Democratic,2,Democratic,Democratic,Both,1,1,6
+1968,Presidential,Abe Fortas,Lyndon B. Johnson,Democratic,1965,58,3,Liberal,Stayed,Lyndon B. Johnson,Democratic,2,Democratic,Democratic,Both,1,2,5
+1968,Presidential,Thurgood Marshall,Lyndon B. Johnson,Democratic,1967,60,1,Liberal,Stayed,Lyndon B. Johnson,Democratic,2,Democratic,Democratic,Both,1,2,5
+1970,Mid-term,Hugo Black,Franklin D. Roosevelt,Democratic,1937,84,33,Liberal,Stayed,Richard Nixon,Republican,1,Democratic,Democratic,Neither,2,2,4
+1970,Mid-term,William O. Douglas,Franklin D. Roosevelt,Democratic,1939,72,31,Liberal,Stayed,Richard Nixon,Republican,1,Democratic,Democratic,Neither,2,2,4
+1970,Mid-term,John Marshall Harlan II,Dwight D. Eisenhower,Republican,1955,71,15,Conservative,Stayed,Richard Nixon,Republican,1,Democratic,Democratic,Neither,1,2,5
+1970,Mid-term,William J. Brennan Jr.,Dwight D. Eisenhower,Republican,1956,64,14,Liberal,Stayed,Richard Nixon,Republican,1,Democratic,Democratic,Neither,2,2,4
+1970,Mid-term,Potter Stewart,Dwight D. Eisenhower,Republican,1958,55,12,Moderate,Stayed,Richard Nixon,Republican,1,Democratic,Democratic,Neither,2,1,5
+1970,Mid-term,Byron White,John F. Kennedy,Democratic,1962,53,8,Moderate,Stayed,Richard Nixon,Republican,1,Democratic,Democratic,Neither,2,1,5
+1970,Mid-term,Thurgood Marshall,Lyndon B. Johnson,Democratic,1967,62,3,Liberal,Stayed,Richard Nixon,Republican,1,Democratic,Democratic,Neither,2,2,4
+1970,Mid-term,Warren E. Burger,Richard Nixon,Republican,1969,63,1,Conservative,Stayed,Richard Nixon,Republican,1,Democratic,Democratic,Neither,1,2,5
+1970,Mid-term,Harry Blackmun,Richard Nixon,Republican,1970,62,0,Liberal,Stayed,Richard Nixon,Republican,1,Democratic,Democratic,Neither,2,2,4
+1972,Presidential,William O. Douglas,Franklin D. Roosevelt,Democratic,1939,74,33,Liberal,Stayed,Richard Nixon,Republican,1,Democratic,Democratic,Neither,2,3,3
+1972,Presidential,William J. Brennan Jr.,Dwight D. Eisenhower,Republican,1956,66,16,Liberal,Stayed,Richard Nixon,Republican,1,Democratic,Democratic,Neither,2,3,3
+1972,Presidential,Potter Stewart,Dwight D. Eisenhower,Republican,1958,57,14,Moderate,Stayed,Richard Nixon,Republican,1,Democratic,Democratic,Neither,2,2,4
+1972,Presidential,Byron White,John F. Kennedy,Democratic,1962,55,10,Moderate,Stayed,Richard Nixon,Republican,1,Democratic,Democratic,Neither,2,2,4
+1972,Presidential,Thurgood Marshall,Lyndon B. Johnson,Democratic,1967,64,5,Liberal,Stayed,Richard Nixon,Republican,1,Democratic,Democratic,Neither,2,3,3
+1972,Presidential,Warren E. Burger,Richard Nixon,Republican,1969,65,3,Conservative,Stayed,Richard Nixon,Republican,1,Democratic,Democratic,Neither,1,3,4
+1972,Presidential,Harry Blackmun,Richard Nixon,Republican,1970,64,2,Liberal,Stayed,Richard Nixon,Republican,1,Democratic,Democratic,Neither,2,3,3
+1972,Presidential,Lewis F. Powell Jr.,Richard Nixon,Republican,1972,65,0,Moderate,Stayed,Richard Nixon,Republican,1,Democratic,Democratic,Neither,2,2,4
+1972,Presidential,William Rehnquist,Richard Nixon,Republican,1972,48,0,Conservative,Stayed,Richard Nixon,Republican,1,Democratic,Democratic,Neither,1,3,4
+1974,Mid-term,William O. Douglas,Franklin D. Roosevelt,Democratic,1939,76,35,Liberal,Stayed,Gerald Ford,Republican,1,Democratic,Democratic,Neither,2,3,3
+1974,Mid-term,William J. Brennan Jr.,Dwight D. Eisenhower,Republican,1956,68,18,Liberal,Stayed,Gerald Ford,Republican,1,Democratic,Democratic,Neither,2,3,3
+1974,Mid-term,Potter Stewart,Dwight D. Eisenhower,Republican,1958,59,16,Moderate,Stayed,Gerald Ford,Republican,1,Democratic,Democratic,Neither,2,2,4
+1974,Mid-term,Byron White,John F. Kennedy,Democratic,1962,57,12,Moderate,Stayed,Gerald Ford,Republican,1,Democratic,Democratic,Neither,2,2,4
+1974,Mid-term,Thurgood Marshall,Lyndon B. Johnson,Democratic,1967,66,7,Liberal,Stayed,Gerald Ford,Republican,1,Democratic,Democratic,Neither,2,3,3
+1974,Mid-term,Warren E. Burger,Richard Nixon,Republican,1969,67,5,Conservative,Stayed,Gerald Ford,Republican,1,Democratic,Democratic,Neither,1,3,4
+1974,Mid-term,Harry Blackmun,Richard Nixon,Republican,1970,66,4,Liberal,Stayed,Gerald Ford,Republican,1,Democratic,Democratic,Neither,2,3,3
+1974,Mid-term,Lewis F. Powell Jr.,Richard Nixon,Republican,1972,67,2,Moderate,Stayed,Gerald Ford,Republican,1,Democratic,Democratic,Neither,2,2,4
+1974,Mid-term,William Rehnquist,Richard Nixon,Republican,1972,50,2,Conservative,Stayed,Gerald Ford,Republican,1,Democratic,Democratic,Neither,1,3,4
+1976,Presidential,William J. Brennan Jr.,Dwight D. Eisenhower,Republican,1956,70,20,Liberal,Stayed,Gerald Ford,Republican,1,Democratic,Democratic,Neither,2,3,3
+1976,Presidential,Potter Stewart,Dwight D. Eisenhower,Republican,1958,61,18,Moderate,Stayed,Gerald Ford,Republican,1,Democratic,Democratic,Neither,2,2,4
+1976,Presidential,Byron White,John F. Kennedy,Democratic,1962,59,14,Moderate,Stayed,Gerald Ford,Republican,1,Democratic,Democratic,Neither,2,2,4
+1976,Presidential,Thurgood Marshall,Lyndon B. Johnson,Democratic,1967,68,9,Liberal,Stayed,Gerald Ford,Republican,1,Democratic,Democratic,Neither,2,3,3
+1976,Presidential,Warren E. Burger,Richard Nixon,Republican,1969,69,7,Conservative,Stayed,Gerald Ford,Republican,1,Democratic,Democratic,Neither,1,3,4
+1976,Presidential,Harry Blackmun,Richard Nixon,Republican,1970,68,6,Liberal,Stayed,Gerald Ford,Republican,1,Democratic,Democratic,Neither,2,3,3
+1976,Presidential,Lewis F. Powell Jr.,Richard Nixon,Republican,1972,69,4,Moderate,Stayed,Gerald Ford,Republican,1,Democratic,Democratic,Neither,2,2,4
+1976,Presidential,William Rehnquist,Richard Nixon,Republican,1972,52,4,Conservative,Stayed,Gerald Ford,Republican,1,Democratic,Democratic,Neither,1,3,4
+1976,Presidential,John Paul Stevens,Gerald Ford,Republican,1975,56,1,Liberal,Stayed,Gerald Ford,Republican,1,Democratic,Democratic,Neither,2,3,3
+1978,Mid-term,William J. Brennan Jr.,Dwight D. Eisenhower,Republican,1956,72,22,Liberal,Stayed,Jimmy Carter,Democratic,1,Democratic,Democratic,Both,2,3,3
+1978,Mid-term,Potter Stewart,Dwight D. Eisenhower,Republican,1958,63,20,Moderate,Stayed,Jimmy Carter,Democratic,1,Democratic,Democratic,Both,2,2,4
+1978,Mid-term,Byron White,John F. Kennedy,Democratic,1962,61,16,Moderate,Stayed,Jimmy Carter,Democratic,1,Democratic,Democratic,Both,2,2,4
+1978,Mid-term,Thurgood Marshall,Lyndon B. Johnson,Democratic,1967,70,11,Liberal,Stayed,Jimmy Carter,Democratic,1,Democratic,Democratic,Both,2,3,3
+1978,Mid-term,Warren E. Burger,Richard Nixon,Republican,1969,71,9,Conservative,Stayed,Jimmy Carter,Democratic,1,Democratic,Democratic,Both,1,3,4
+1978,Mid-term,Harry Blackmun,Richard Nixon,Republican,1970,70,8,Liberal,Stayed,Jimmy Carter,Democratic,1,Democratic,Democratic,Both,2,3,3
+1978,Mid-term,Lewis F. Powell Jr.,Richard Nixon,Republican,1972,71,6,Moderate,Stayed,Jimmy Carter,Democratic,1,Democratic,Democratic,Both,2,2,4
+1978,Mid-term,William Rehnquist,Richard Nixon,Republican,1972,54,6,Conservative,Stayed,Jimmy Carter,Democratic,1,Democratic,Democratic,Both,1,3,4
+1978,Mid-term,John Paul Stevens,Gerald Ford,Republican,1975,58,3,Liberal,Stayed,Jimmy Carter,Democratic,1,Democratic,Democratic,Both,2,3,3
+1980,Presidential,William J. Brennan Jr.,Dwight D. Eisenhower,Republican,1956,74,24,Liberal,Stayed,Jimmy Carter,Democratic,1,Democratic,Democratic,Both,2,3,3
+1980,Presidential,Potter Stewart,Dwight D. Eisenhower,Republican,1958,65,22,Moderate,Stayed,Jimmy Carter,Democratic,1,Democratic,Democratic,Both,2,2,4
+1980,Presidential,Byron White,John F. Kennedy,Democratic,1962,63,18,Moderate,Stayed,Jimmy Carter,Democratic,1,Democratic,Democratic,Both,2,2,4
+1980,Presidential,Thurgood Marshall,Lyndon B. Johnson,Democratic,1967,72,13,Liberal,Stayed,Jimmy Carter,Democratic,1,Democratic,Democratic,Both,2,3,3
+1980,Presidential,Warren E. Burger,Richard Nixon,Republican,1969,73,11,Conservative,Stayed,Jimmy Carter,Democratic,1,Democratic,Democratic,Both,1,3,4
+1980,Presidential,Harry Blackmun,Richard Nixon,Republican,1970,72,10,Liberal,Stayed,Jimmy Carter,Democratic,1,Democratic,Democratic,Both,2,3,3
+1980,Presidential,Lewis F. Powell Jr.,Richard Nixon,Republican,1972,73,8,Moderate,Stayed,Jimmy Carter,Democratic,1,Democratic,Democratic,Both,2,2,4
+1980,Presidential,William Rehnquist,Richard Nixon,Republican,1972,56,8,Conservative,Stayed,Jimmy Carter,Democratic,1,Democratic,Democratic,Both,1,3,4
+1980,Presidential,John Paul Stevens,Gerald Ford,Republican,1975,60,5,Liberal,Stayed,Jimmy Carter,Democratic,1,Democratic,Democratic,Both,2,3,3
+1982,Mid-term,William J. Brennan Jr.,Dwight D. Eisenhower,Republican,1956,76,26,Liberal,Stayed,Ronald Reagan,Republican,1,Democratic,Republican,Senate Only,2,3,3
+1982,Mid-term,Byron White,John F. Kennedy,Democratic,1962,65,20,Moderate,Stayed,Ronald Reagan,Republican,1,Democratic,Republican,Senate Only,2,2,4
+1982,Mid-term,Thurgood Marshall,Lyndon B. Johnson,Democratic,1967,74,15,Liberal,Stayed,Ronald Reagan,Republican,1,Democratic,Republican,Senate Only,2,3,3
+1982,Mid-term,Warren E. Burger,Richard Nixon,Republican,1969,75,13,Conservative,Stayed,Ronald Reagan,Republican,1,Democratic,Republican,Senate Only,1,3,4
+1982,Mid-term,Harry Blackmun,Richard Nixon,Republican,1970,74,12,Liberal,Stayed,Ronald Reagan,Republican,1,Democratic,Republican,Senate Only,2,3,3
+1982,Mid-term,Lewis F. Powell Jr.,Richard Nixon,Republican,1972,75,10,Moderate,Stayed,Ronald Reagan,Republican,1,Democratic,Republican,Senate Only,2,2,4
+1982,Mid-term,William Rehnquist,Richard Nixon,Republican,1972,58,10,Conservative,Stayed,Ronald Reagan,Republican,1,Democratic,Republican,Senate Only,1,3,4
+1982,Mid-term,John Paul Stevens,Gerald Ford,Republican,1975,62,7,Liberal,Stayed,Ronald Reagan,Republican,1,Democratic,Republican,Senate Only,2,3,3
+1982,Mid-term,Sandra Day O'Connor,Ronald Reagan,Republican,1981,52,1,Moderate,Stayed,Ronald Reagan,Republican,1,Democratic,Republican,Senate Only,2,2,4
+1984,Presidential,William J. Brennan Jr.,Dwight D. Eisenhower,Republican,1956,78,28,Liberal,Stayed,Ronald Reagan,Republican,1,Democratic,Republican,Senate Only,2,3,3
+1984,Presidential,Byron White,John F. Kennedy,Democratic,1962,67,22,Moderate,Stayed,Ronald Reagan,Republican,1,Democratic,Republican,Senate Only,2,2,4
+1984,Presidential,Thurgood Marshall,Lyndon B. Johnson,Democratic,1967,76,17,Liberal,Stayed,Ronald Reagan,Republican,1,Democratic,Republican,Senate Only,2,3,3
+1984,Presidential,Warren E. Burger,Richard Nixon,Republican,1969,77,15,Conservative,Stayed,Ronald Reagan,Republican,1,Democratic,Republican,Senate Only,1,3,4
+1984,Presidential,Harry Blackmun,Richard Nixon,Republican,1970,76,14,Liberal,Stayed,Ronald Reagan,Republican,1,Democratic,Republican,Senate Only,2,3,3
+1984,Presidential,Lewis F. Powell Jr.,Richard Nixon,Republican,1972,77,12,Moderate,Stayed,Ronald Reagan,Republican,1,Democratic,Republican,Senate Only,2,2,4
+1984,Presidential,William Rehnquist,Richard Nixon,Republican,1972,60,12,Conservative,Stayed,Ronald Reagan,Republican,1,Democratic,Republican,Senate Only,1,3,4
+1984,Presidential,John Paul Stevens,Gerald Ford,Republican,1975,64,9,Liberal,Stayed,Ronald Reagan,Republican,1,Democratic,Republican,Senate Only,2,3,3
+1984,Presidential,Sandra Day O'Connor,Ronald Reagan,Republican,1981,54,3,Moderate,Stayed,Ronald Reagan,Republican,1,Democratic,Republican,Senate Only,2,2,4
+1986,Mid-term,William J. Brennan Jr.,Dwight D. Eisenhower,Republican,1956,80,30,Liberal,Stayed,Ronald Reagan,Republican,2,Democratic,Republican,Senate Only,3,3,3
+1986,Mid-term,Byron White,John F. Kennedy,Democratic,1962,69,24,Moderate,Stayed,Ronald Reagan,Republican,2,Democratic,Republican,Senate Only,3,2,4
+1986,Mid-term,Thurgood Marshall,Lyndon B. Johnson,Democratic,1967,78,19,Liberal,Stayed,Ronald Reagan,Republican,2,Democratic,Republican,Senate Only,3,3,3
+1986,Mid-term,Warren E. Burger,Richard Nixon,Republican,1969,79,17,Conservative,Left - Retired (Voluntary),Ronald Reagan,Republican,2,Democratic,Republican,Senate Only,2,3,4
+1986,Mid-term,Harry Blackmun,Richard Nixon,Republican,1970,78,16,Liberal,Stayed,Ronald Reagan,Republican,2,Democratic,Republican,Senate Only,3,3,3
+1986,Mid-term,Lewis F. Powell Jr.,Richard Nixon,Republican,1972,79,14,Moderate,Stayed,Ronald Reagan,Republican,2,Democratic,Republican,Senate Only,3,2,4
+1986,Mid-term,William Rehnquist,Richard Nixon,Republican,1972,62,14,Conservative,Stayed,Ronald Reagan,Republican,2,Democratic,Republican,Senate Only,2,3,4
+1986,Mid-term,John Paul Stevens,Gerald Ford,Republican,1975,66,11,Liberal,Stayed,Ronald Reagan,Republican,2,Democratic,Republican,Senate Only,3,3,3
+1986,Mid-term,Sandra Day O'Connor,Ronald Reagan,Republican,1981,56,5,Moderate,Stayed,Ronald Reagan,Republican,2,Democratic,Republican,Senate Only,3,2,4
+1986,Mid-term,Antonin Scalia,Ronald Reagan,Republican,1986,50,0,Conservative,Stayed,Ronald Reagan,Republican,2,Democratic,Republican,Senate Only,2,3,4
+1988,Presidential,William J. Brennan Jr.,Dwight D. Eisenhower,Republican,1956,82,32,Liberal,Stayed,Ronald Reagan,Republican,2,Democratic,Democratic,Neither,2,3,3
+1988,Presidential,Byron White,John F. Kennedy,Democratic,1962,71,26,Moderate,Stayed,Ronald Reagan,Republican,2,Democratic,Democratic,Neither,2,2,4
+1988,Presidential,Thurgood Marshall,Lyndon B. Johnson,Democratic,1967,80,21,Liberal,Stayed,Ronald Reagan,Republican,2,Democratic,Democratic,Neither,2,3,3
+1988,Presidential,Harry Blackmun,Richard Nixon,Republican,1970,80,18,Liberal,Stayed,Ronald Reagan,Republican,2,Democratic,Democratic,Neither,2,3,3
+1988,Presidential,William Rehnquist,Richard Nixon,Republican,1972,64,16,Conservative,Stayed,Ronald Reagan,Republican,2,Democratic,Democratic,Neither,1,3,4
+1988,Presidential,John Paul Stevens,Gerald Ford,Republican,1975,68,13,Liberal,Stayed,Ronald Reagan,Republican,2,Democratic,Democratic,Neither,2,3,3
+1988,Presidential,Sandra Day O'Connor,Ronald Reagan,Republican,1981,58,7,Moderate,Stayed,Ronald Reagan,Republican,2,Democratic,Democratic,Neither,2,2,4
+1988,Presidential,Antonin Scalia,Ronald Reagan,Republican,1986,52,2,Conservative,Stayed,Ronald Reagan,Republican,2,Democratic,Democratic,Neither,1,3,4
+1988,Presidential,Anthony Kennedy,Ronald Reagan,Republican,1988,52,0,Moderate,Stayed,Ronald Reagan,Republican,2,Democratic,Democratic,Neither,2,2,4
+1990,Mid-term,William J. Brennan Jr.,Dwight D. Eisenhower,Republican,1956,84,34,Liberal,Left - Retired (Voluntary),George H.W. Bush,Republican,1,Democratic,Democratic,Neither,2,3,4
+1990,Mid-term,Byron White,John F. Kennedy,Democratic,1962,73,28,Moderate,Stayed,George H.W. Bush,Republican,1,Democratic,Democratic,Neither,2,2,5
+1990,Mid-term,Thurgood Marshall,Lyndon B. Johnson,Democratic,1967,82,23,Liberal,Stayed,George H.W. Bush,Republican,1,Democratic,Democratic,Neither,2,3,4
+1990,Mid-term,Harry Blackmun,Richard Nixon,Republican,1970,82,20,Liberal,Stayed,George H.W. Bush,Republican,1,Democratic,Democratic,Neither,2,3,4
+1990,Mid-term,William Rehnquist,Richard Nixon,Republican,1972,66,18,Conservative,Stayed,George H.W. Bush,Republican,1,Democratic,Democratic,Neither,1,3,5
+1990,Mid-term,John Paul Stevens,Gerald Ford,Republican,1975,70,15,Liberal,Stayed,George H.W. Bush,Republican,1,Democratic,Democratic,Neither,2,3,4
+1990,Mid-term,Sandra Day O'Connor,Ronald Reagan,Republican,1981,60,9,Moderate,Stayed,George H.W. Bush,Republican,1,Democratic,Democratic,Neither,2,2,5
+1990,Mid-term,Antonin Scalia,Ronald Reagan,Republican,1986,54,4,Conservative,Stayed,George H.W. Bush,Republican,1,Democratic,Democratic,Neither,1,3,5
+1990,Mid-term,Anthony Kennedy,Ronald Reagan,Republican,1988,54,2,Moderate,Stayed,George H.W. Bush,Republican,1,Democratic,Democratic,Neither,2,2,5
+1990,Mid-term,David Souter,George H.W. Bush,Republican,1990,51,0,Liberal,Stayed,George H.W. Bush,Republican,1,Democratic,Democratic,Neither,2,3,4
+1992,Presidential,Byron White,John F. Kennedy,Democratic,1962,75,30,Moderate,Stayed,George H.W. Bush,Republican,1,Democratic,Democratic,Neither,3,2,3
+1992,Presidential,Harry Blackmun,Richard Nixon,Republican,1970,84,22,Liberal,Stayed,George H.W. Bush,Republican,1,Democratic,Democratic,Neither,3,3,2
+1992,Presidential,William Rehnquist,Richard Nixon,Republican,1972,68,20,Conservative,Stayed,George H.W. Bush,Republican,1,Democratic,Democratic,Neither,2,3,3
+1992,Presidential,John Paul Stevens,Gerald Ford,Republican,1975,72,17,Liberal,Stayed,George H.W. Bush,Republican,1,Democratic,Democratic,Neither,3,3,2
+1992,Presidential,Sandra Day O'Connor,Ronald Reagan,Republican,1981,62,11,Moderate,Stayed,George H.W. Bush,Republican,1,Democratic,Democratic,Neither,3,2,3
+1992,Presidential,Antonin Scalia,Ronald Reagan,Republican,1986,56,6,Conservative,Stayed,George H.W. Bush,Republican,1,Democratic,Democratic,Neither,2,3,3
+1992,Presidential,Anthony Kennedy,Ronald Reagan,Republican,1988,56,4,Moderate,Stayed,George H.W. Bush,Republican,1,Democratic,Democratic,Neither,3,2,3
+1992,Presidential,David Souter,George H.W. Bush,Republican,1990,53,2,Liberal,Stayed,George H.W. Bush,Republican,1,Democratic,Democratic,Neither,3,3,2
+1992,Presidential,Clarence Thomas,George H.W. Bush,Republican,1991,44,1,Conservative,Stayed,George H.W. Bush,Republican,1,Democratic,Democratic,Neither,2,3,3
+1994,Mid-term,Harry Blackmun,Richard Nixon,Republican,1970,86,24,Liberal,Left - Retired (Voluntary),Bill Clinton,Democratic,1,Democratic,Democratic,Both,3,2,4
+1994,Mid-term,William Rehnquist,Richard Nixon,Republican,1972,70,22,Conservative,Stayed,Bill Clinton,Democratic,1,Democratic,Democratic,Both,2,2,5
+1994,Mid-term,John Paul Stevens,Gerald Ford,Republican,1975,74,19,Liberal,Stayed,Bill Clinton,Democratic,1,Democratic,Democratic,Both,3,2,4
+1994,Mid-term,Sandra Day O'Connor,Ronald Reagan,Republican,1981,64,13,Moderate,Stayed,Bill Clinton,Democratic,1,Democratic,Democratic,Both,3,1,5
+1994,Mid-term,Antonin Scalia,Ronald Reagan,Republican,1986,58,8,Conservative,Stayed,Bill Clinton,Democratic,1,Democratic,Democratic,Both,2,2,5
+1994,Mid-term,Anthony Kennedy,Ronald Reagan,Republican,1988,58,6,Moderate,Stayed,Bill Clinton,Democratic,1,Democratic,Democratic,Both,3,1,5
+1994,Mid-term,David Souter,George H.W. Bush,Republican,1990,55,4,Liberal,Stayed,Bill Clinton,Democratic,1,Democratic,Democratic,Both,3,2,4
+1994,Mid-term,Clarence Thomas,George H.W. Bush,Republican,1991,46,3,Conservative,Stayed,Bill Clinton,Democratic,1,Democratic,Democratic,Both,2,2,5
+1994,Mid-term,Ruth Bader Ginsburg,Bill Clinton,Democratic,1993,61,1,Liberal,Stayed,Bill Clinton,Democratic,1,Democratic,Democratic,Both,3,2,4
+1994,Mid-term,Stephen Breyer,Bill Clinton,Democratic,1994,56,0,Liberal,Stayed,Bill Clinton,Democratic,1,Democratic,Democratic,Both,3,2,4
+1996,Presidential,William Rehnquist,Richard Nixon,Republican,1972,72,24,Conservative,Stayed,Bill Clinton,Democratic,1,Republican,Republican,Neither,2,2,4
+1996,Presidential,John Paul Stevens,Gerald Ford,Republican,1975,76,21,Liberal,Stayed,Bill Clinton,Democratic,1,Republican,Republican,Neither,3,2,3
+1996,Presidential,Sandra Day O'Connor,Ronald Reagan,Republican,1981,66,15,Moderate,Stayed,Bill Clinton,Democratic,1,Republican,Republican,Neither,3,1,4
+1996,Presidential,Antonin Scalia,Ronald Reagan,Republican,1986,60,10,Conservative,Stayed,Bill Clinton,Democratic,1,Republican,Republican,Neither,2,2,4
+1996,Presidential,Anthony Kennedy,Ronald Reagan,Republican,1988,60,8,Moderate,Stayed,Bill Clinton,Democratic,1,Republican,Republican,Neither,3,1,4
+1996,Presidential,David Souter,George H.W. Bush,Republican,1990,57,6,Liberal,Stayed,Bill Clinton,Democratic,1,Republican,Republican,Neither,3,2,3
+1996,Presidential,Clarence Thomas,George H.W. Bush,Republican,1991,48,5,Conservative,Stayed,Bill Clinton,Democratic,1,Republican,Republican,Neither,2,2,4
+1996,Presidential,Ruth Bader Ginsburg,Bill Clinton,Democratic,1993,63,3,Liberal,Stayed,Bill Clinton,Democratic,1,Republican,Republican,Neither,3,2,3
+1996,Presidential,Stephen Breyer,Bill Clinton,Democratic,1994,58,2,Liberal,Stayed,Bill Clinton,Democratic,1,Republican,Republican,Neither,3,2,3
+1998,Mid-term,William Rehnquist,Richard Nixon,Republican,1972,74,26,Conservative,Stayed,Bill Clinton,Democratic,2,Republican,Republican,Neither,2,2,4
+1998,Mid-term,John Paul Stevens,Gerald Ford,Republican,1975,78,23,Liberal,Stayed,Bill Clinton,Democratic,2,Republican,Republican,Neither,3,2,3
+1998,Mid-term,Sandra Day O'Connor,Ronald Reagan,Republican,1981,68,17,Moderate,Stayed,Bill Clinton,Democratic,2,Republican,Republican,Neither,3,1,4
+1998,Mid-term,Antonin Scalia,Ronald Reagan,Republican,1986,62,12,Conservative,Stayed,Bill Clinton,Democratic,2,Republican,Republican,Neither,2,2,4
+1998,Mid-term,Anthony Kennedy,Ronald Reagan,Republican,1988,62,10,Moderate,Stayed,Bill Clinton,Democratic,2,Republican,Republican,Neither,3,1,4
+1998,Mid-term,David Souter,George H.W. Bush,Republican,1990,59,8,Liberal,Stayed,Bill Clinton,Democratic,2,Republican,Republican,Neither,3,2,3
+1998,Mid-term,Clarence Thomas,George H.W. Bush,Republican,1991,50,7,Conservative,Stayed,Bill Clinton,Democratic,2,Republican,Republican,Neither,2,2,4
+1998,Mid-term,Ruth Bader Ginsburg,Bill Clinton,Democratic,1993,65,5,Liberal,Stayed,Bill Clinton,Democratic,2,Republican,Republican,Neither,3,2,3
+1998,Mid-term,Stephen Breyer,Bill Clinton,Democratic,1994,60,4,Liberal,Stayed,Bill Clinton,Democratic,2,Republican,Republican,Neither,3,2,3
+2000,Presidential,William Rehnquist,Richard Nixon,Republican,1972,76,28,Conservative,Stayed,Bill Clinton,Democratic,2,Republican,Republican,Neither,2,2,4
+2000,Presidential,John Paul Stevens,Gerald Ford,Republican,1975,80,25,Liberal,Stayed,Bill Clinton,Democratic,2,Republican,Republican,Neither,3,2,3
+2000,Presidential,Sandra Day O'Connor,Ronald Reagan,Republican,1981,70,19,Moderate,Stayed,Bill Clinton,Democratic,2,Republican,Republican,Neither,3,1,4
+2000,Presidential,Antonin Scalia,Ronald Reagan,Republican,1986,64,14,Conservative,Stayed,Bill Clinton,Democratic,2,Republican,Republican,Neither,2,2,4
+2000,Presidential,Anthony Kennedy,Ronald Reagan,Republican,1988,64,12,Moderate,Stayed,Bill Clinton,Democratic,2,Republican,Republican,Neither,3,1,4
+2000,Presidential,David Souter,George H.W. Bush,Republican,1990,61,10,Liberal,Stayed,Bill Clinton,Democratic,2,Republican,Republican,Neither,3,2,3
+2000,Presidential,Clarence Thomas,George H.W. Bush,Republican,1991,52,9,Conservative,Stayed,Bill Clinton,Democratic,2,Republican,Republican,Neither,2,2,4
+2000,Presidential,Ruth Bader Ginsburg,Bill Clinton,Democratic,1993,67,7,Liberal,Stayed,Bill Clinton,Democratic,2,Republican,Republican,Neither,3,2,3
+2000,Presidential,Stephen Breyer,Bill Clinton,Democratic,1994,62,6,Liberal,Stayed,Bill Clinton,Democratic,2,Republican,Republican,Neither,3,2,3
+2002,Mid-term,William Rehnquist,Richard Nixon,Republican,1972,78,30,Conservative,Stayed,George W. Bush,Republican,1,Republican,Democratic,House Only,2,2,4
+2002,Mid-term,John Paul Stevens,Gerald Ford,Republican,1975,82,27,Liberal,Stayed,George W. Bush,Republican,1,Republican,Democratic,House Only,3,2,3
+2002,Mid-term,Sandra Day O'Connor,Ronald Reagan,Republican,1981,72,21,Moderate,Stayed,George W. Bush,Republican,1,Republican,Democratic,House Only,3,1,4
+2002,Mid-term,Antonin Scalia,Ronald Reagan,Republican,1986,66,16,Conservative,Stayed,George W. Bush,Republican,1,Republican,Democratic,House Only,2,2,4
+2002,Mid-term,Anthony Kennedy,Ronald Reagan,Republican,1988,66,14,Moderate,Stayed,George W. Bush,Republican,1,Republican,Democratic,House Only,3,1,4
+2002,Mid-term,David Souter,George H.W. Bush,Republican,1990,63,12,Liberal,Stayed,George W. Bush,Republican,1,Republican,Democratic,House Only,3,2,3
+2002,Mid-term,Clarence Thomas,George H.W. Bush,Republican,1991,54,11,Conservative,Stayed,George W. Bush,Republican,1,Republican,Democratic,House Only,2,2,4
+2002,Mid-term,Ruth Bader Ginsburg,Bill Clinton,Democratic,1993,69,9,Liberal,Stayed,George W. Bush,Republican,1,Republican,Democratic,House Only,3,2,3
+2002,Mid-term,Stephen Breyer,Bill Clinton,Democratic,1994,64,8,Liberal,Stayed,George W. Bush,Republican,1,Republican,Democratic,House Only,3,2,3
+2004,Presidential,William Rehnquist,Richard Nixon,Republican,1972,80,32,Conservative,Stayed,George W. Bush,Republican,1,Republican,Republican,Both,2,2,4
+2004,Presidential,John Paul Stevens,Gerald Ford,Republican,1975,84,29,Liberal,Stayed,George W. Bush,Republican,1,Republican,Republican,Both,3,2,3
+2004,Presidential,Sandra Day O'Connor,Ronald Reagan,Republican,1981,74,23,Moderate,Stayed,George W. Bush,Republican,1,Republican,Republican,Both,3,1,4
+2004,Presidential,Antonin Scalia,Ronald Reagan,Republican,1986,68,18,Conservative,Stayed,George W. Bush,Republican,1,Republican,Republican,Both,2,2,4
+2004,Presidential,Anthony Kennedy,Ronald Reagan,Republican,1988,68,16,Moderate,Stayed,George W. Bush,Republican,1,Republican,Republican,Both,3,1,4
+2004,Presidential,David Souter,George H.W. Bush,Republican,1990,65,14,Liberal,Stayed,George W. Bush,Republican,1,Republican,Republican,Both,3,2,3
+2004,Presidential,Clarence Thomas,George H.W. Bush,Republican,1991,56,13,Conservative,Stayed,George W. Bush,Republican,1,Republican,Republican,Both,2,2,4
+2004,Presidential,Ruth Bader Ginsburg,Bill Clinton,Democratic,1993,71,11,Liberal,Stayed,George W. Bush,Republican,1,Republican,Republican,Both,3,2,3
+2004,Presidential,Stephen Breyer,Bill Clinton,Democratic,1994,66,10,Liberal,Stayed,George W. Bush,Republican,1,Republican,Republican,Both,3,2,3
+2006,Mid-term,John Paul Stevens,Gerald Ford,Republican,1975,86,31,Liberal,Stayed,George W. Bush,Republican,2,Republican,Republican,Both,4,2,3
+2006,Mid-term,Sandra Day O'Connor,Ronald Reagan,Republican,1981,76,25,Moderate,Left - Retired (Voluntary),George W. Bush,Republican,2,Republican,Republican,Both,4,1,4
+2006,Mid-term,Antonin Scalia,Ronald Reagan,Republican,1986,70,20,Conservative,Stayed,George W. Bush,Republican,2,Republican,Republican,Both,3,2,4
+2006,Mid-term,Anthony Kennedy,Ronald Reagan,Republican,1988,70,18,Moderate,Stayed,George W. Bush,Republican,2,Republican,Republican,Both,4,1,4
+2006,Mid-term,David Souter,George H.W. Bush,Republican,1990,67,16,Liberal,Stayed,George W. Bush,Republican,2,Republican,Republican,Both,4,2,3
+2006,Mid-term,Clarence Thomas,George H.W. Bush,Republican,1991,58,15,Conservative,Stayed,George W. Bush,Republican,2,Republican,Republican,Both,3,2,4
+2006,Mid-term,Ruth Bader Ginsburg,Bill Clinton,Democratic,1993,73,13,Liberal,Stayed,George W. Bush,Republican,2,Republican,Republican,Both,4,2,3
+2006,Mid-term,Stephen Breyer,Bill Clinton,Democratic,1994,68,12,Liberal,Stayed,George W. Bush,Republican,2,Republican,Republican,Both,4,2,3
+2006,Mid-term,John Roberts,George W. Bush,Republican,2005,51,1,Conservative,Stayed,George W. Bush,Republican,2,Republican,Republican,Both,3,2,4
+2006,Mid-term,Samuel Alito,George W. Bush,Republican,2006,56,0,Conservative,Stayed,George W. Bush,Republican,2,Republican,Republican,Both,3,2,4
+2008,Presidential,John Paul Stevens,Gerald Ford,Republican,1975,88,33,Liberal,Stayed,George W. Bush,Republican,2,Democratic,Democratic,Neither,4,1,3
+2008,Presidential,Antonin Scalia,Ronald Reagan,Republican,1986,72,22,Conservative,Stayed,George W. Bush,Republican,2,Democratic,Democratic,Neither,3,1,4
+2008,Presidential,Anthony Kennedy,Ronald Reagan,Republican,1988,72,20,Moderate,Stayed,George W. Bush,Republican,2,Democratic,Democratic,Neither,4,0,4
+2008,Presidential,David Souter,George H.W. Bush,Republican,1990,69,18,Liberal,Stayed,George W. Bush,Republican,2,Democratic,Democratic,Neither,4,1,3
+2008,Presidential,Clarence Thomas,George H.W. Bush,Republican,1991,60,17,Conservative,Stayed,George W. Bush,Republican,2,Democratic,Democratic,Neither,3,1,4
+2008,Presidential,Ruth Bader Ginsburg,Bill Clinton,Democratic,1993,75,15,Liberal,Stayed,George W. Bush,Republican,2,Democratic,Democratic,Neither,4,1,3
+2008,Presidential,Stephen Breyer,Bill Clinton,Democratic,1994,70,14,Liberal,Stayed,George W. Bush,Republican,2,Democratic,Democratic,Neither,4,1,3
+2008,Presidential,John Roberts,George W. Bush,Republican,2005,53,3,Conservative,Stayed,George W. Bush,Republican,2,Democratic,Democratic,Neither,3,1,4
+2008,Presidential,Samuel Alito,George W. Bush,Republican,2006,58,2,Conservative,Stayed,George W. Bush,Republican,2,Democratic,Democratic,Neither,3,1,4
+2010,Mid-term,John Paul Stevens,Gerald Ford,Republican,1975,90,35,Liberal,Left - Retired (Voluntary),Barack Obama,Democratic,1,Democratic,Democratic,Both,4,1,4
+2010,Mid-term,Antonin Scalia,Ronald Reagan,Republican,1986,74,24,Conservative,Stayed,Barack Obama,Democratic,1,Democratic,Democratic,Both,3,1,5
+2010,Mid-term,Anthony Kennedy,Ronald Reagan,Republican,1988,74,22,Moderate,Stayed,Barack Obama,Democratic,1,Democratic,Democratic,Both,4,0,5
+2010,Mid-term,Clarence Thomas,George H.W. Bush,Republican,1991,62,19,Conservative,Stayed,Barack Obama,Democratic,1,Democratic,Democratic,Both,3,1,5
+2010,Mid-term,Ruth Bader Ginsburg,Bill Clinton,Democratic,1993,77,17,Liberal,Stayed,Barack Obama,Democratic,1,Democratic,Democratic,Both,4,1,4
+2010,Mid-term,Stephen Breyer,Bill Clinton,Democratic,1994,72,16,Liberal,Stayed,Barack Obama,Democratic,1,Democratic,Democratic,Both,4,1,4
+2010,Mid-term,John Roberts,George W. Bush,Republican,2005,55,5,Conservative,Stayed,Barack Obama,Democratic,1,Democratic,Democratic,Both,3,1,5
+2010,Mid-term,Samuel Alito,George W. Bush,Republican,2006,60,4,Conservative,Stayed,Barack Obama,Democratic,1,Democratic,Democratic,Both,3,1,5
+2010,Mid-term,Sonia Sotomayor,Barack Obama,Democratic,2009,56,1,Liberal,Stayed,Barack Obama,Democratic,1,Democratic,Democratic,Both,4,1,4
+2010,Mid-term,Elena Kagan,Barack Obama,Democratic,2010,50,0,Liberal,Stayed,Barack Obama,Democratic,1,Democratic,Democratic,Both,4,1,4
+2012,Presidential,Antonin Scalia,Ronald Reagan,Republican,1986,76,26,Conservative,Stayed,Barack Obama,Democratic,1,Republican,Democratic,Senate Only,3,1,4
+2012,Presidential,Anthony Kennedy,Ronald Reagan,Republican,1988,76,24,Moderate,Stayed,Barack Obama,Democratic,1,Republican,Democratic,Senate Only,4,0,4
+2012,Presidential,Clarence Thomas,George H.W. Bush,Republican,1991,64,21,Conservative,Stayed,Barack Obama,Democratic,1,Republican,Democratic,Senate Only,3,1,4
+2012,Presidential,Ruth Bader Ginsburg,Bill Clinton,Democratic,1993,79,19,Liberal,Stayed,Barack Obama,Democratic,1,Republican,Democratic,Senate Only,4,1,3
+2012,Presidential,Stephen Breyer,Bill Clinton,Democratic,1994,74,18,Liberal,Stayed,Barack Obama,Democratic,1,Republican,Democratic,Senate Only,4,1,3
+2012,Presidential,John Roberts,George W. Bush,Republican,2005,57,7,Conservative,Stayed,Barack Obama,Democratic,1,Republican,Democratic,Senate Only,3,1,4
+2012,Presidential,Samuel Alito,George W. Bush,Republican,2006,62,6,Conservative,Stayed,Barack Obama,Democratic,1,Republican,Democratic,Senate Only,3,1,4
+2012,Presidential,Sonia Sotomayor,Barack Obama,Democratic,2009,58,3,Liberal,Stayed,Barack Obama,Democratic,1,Republican,Democratic,Senate Only,4,1,3
+2012,Presidential,Elena Kagan,Barack Obama,Democratic,2010,52,2,Liberal,Stayed,Barack Obama,Democratic,1,Republican,Democratic,Senate Only,4,1,3
+2014,Mid-term,Antonin Scalia,Ronald Reagan,Republican,1986,78,28,Conservative,Stayed,Barack Obama,Democratic,2,Republican,Democratic,Senate Only,3,1,4
+2014,Mid-term,Anthony Kennedy,Ronald Reagan,Republican,1988,78,26,Moderate,Stayed,Barack Obama,Democratic,2,Republican,Democratic,Senate Only,4,0,4
+2014,Mid-term,Clarence Thomas,George H.W. Bush,Republican,1991,66,23,Conservative,Stayed,Barack Obama,Democratic,2,Republican,Democratic,Senate Only,3,1,4
+2014,Mid-term,Ruth Bader Ginsburg,Bill Clinton,Democratic,1993,81,21,Liberal,Stayed,Barack Obama,Democratic,2,Republican,Democratic,Senate Only,4,1,3
+2014,Mid-term,Stephen Breyer,Bill Clinton,Democratic,1994,76,20,Liberal,Stayed,Barack Obama,Democratic,2,Republican,Democratic,Senate Only,4,1,3
+2014,Mid-term,John Roberts,George W. Bush,Republican,2005,59,9,Conservative,Stayed,Barack Obama,Democratic,2,Republican,Democratic,Senate Only,3,1,4
+2014,Mid-term,Samuel Alito,George W. Bush,Republican,2006,64,8,Conservative,Stayed,Barack Obama,Democratic,2,Republican,Democratic,Senate Only,3,1,4
+2014,Mid-term,Sonia Sotomayor,Barack Obama,Democratic,2009,60,5,Liberal,Stayed,Barack Obama,Democratic,2,Republican,Democratic,Senate Only,4,1,3
+2014,Mid-term,Elena Kagan,Barack Obama,Democratic,2010,54,4,Liberal,Stayed,Barack Obama,Democratic,2,Republican,Democratic,Senate Only,4,1,3
+2016,Presidential,Antonin Scalia,Ronald Reagan,Republican,1986,80,30,Conservative,Left - Died (Involuntary),Barack Obama,Democratic,2,Republican,Republican,Neither,3,1,4
+2016,Presidential,Anthony Kennedy,Ronald Reagan,Republican,1988,80,28,Moderate,Stayed,Barack Obama,Democratic,2,Republican,Republican,Neither,4,0,4
+2016,Presidential,Clarence Thomas,George H.W. Bush,Republican,1991,68,25,Conservative,Stayed,Barack Obama,Democratic,2,Republican,Republican,Neither,3,1,4
+2016,Presidential,Ruth Bader Ginsburg,Bill Clinton,Democratic,1993,83,23,Liberal,Stayed,Barack Obama,Democratic,2,Republican,Republican,Neither,4,1,3
+2016,Presidential,Stephen Breyer,Bill Clinton,Democratic,1994,78,22,Liberal,Stayed,Barack Obama,Democratic,2,Republican,Republican,Neither,4,1,3
+2016,Presidential,John Roberts,George W. Bush,Republican,2005,61,11,Conservative,Stayed,Barack Obama,Democratic,2,Republican,Republican,Neither,3,1,4
+2016,Presidential,Samuel Alito,George W. Bush,Republican,2006,66,10,Conservative,Stayed,Barack Obama,Democratic,2,Republican,Republican,Neither,3,1,4
+2016,Presidential,Sonia Sotomayor,Barack Obama,Democratic,2009,62,7,Liberal,Stayed,Barack Obama,Democratic,2,Republican,Republican,Neither,4,1,3
+2016,Presidential,Elena Kagan,Barack Obama,Democratic,2010,56,6,Liberal,Stayed,Barack Obama,Democratic,2,Republican,Republican,Neither,4,1,3
+2018,Mid-term,Anthony Kennedy,Ronald Reagan,Republican,1988,82,30,Moderate,Left - Retired (Voluntary),Donald Trump,Republican,1,Republican,Republican,Both,5,0,4
+2018,Mid-term,Clarence Thomas,George H.W. Bush,Republican,1991,70,27,Conservative,Stayed,Donald Trump,Republican,1,Republican,Republican,Both,4,1,4
+2018,Mid-term,Ruth Bader Ginsburg,Bill Clinton,Democratic,1993,85,25,Liberal,Stayed,Donald Trump,Republican,1,Republican,Republican,Both,5,1,3
+2018,Mid-term,Stephen Breyer,Bill Clinton,Democratic,1994,80,24,Liberal,Stayed,Donald Trump,Republican,1,Republican,Republican,Both,5,1,3
+2018,Mid-term,John Roberts,George W. Bush,Republican,2005,63,13,Conservative,Stayed,Donald Trump,Republican,1,Republican,Republican,Both,4,1,4
+2018,Mid-term,Samuel Alito,George W. Bush,Republican,2006,68,12,Conservative,Stayed,Donald Trump,Republican,1,Republican,Republican,Both,4,1,4
+2018,Mid-term,Sonia Sotomayor,Barack Obama,Democratic,2009,64,9,Liberal,Stayed,Donald Trump,Republican,1,Republican,Republican,Both,5,1,3
+2018,Mid-term,Elena Kagan,Barack Obama,Democratic,2010,58,8,Liberal,Stayed,Donald Trump,Republican,1,Republican,Republican,Both,5,1,3
+2018,Mid-term,Neil Gorsuch,Donald Trump,Republican,2017,51,1,Conservative,Stayed,Donald Trump,Republican,1,Republican,Republican,Both,4,1,4
+2018,Mid-term,Brett Kavanaugh,Donald Trump,Republican,2018,53,0,Conservative,Stayed,Donald Trump,Republican,1,Republican,Republican,Both,4,1,4
+2020,Presidential,Clarence Thomas,George H.W. Bush,Republican,1991,72,29,Conservative,Stayed,Donald Trump,Republican,1,Democratic,Republican,Senate Only,5,0,4
+2020,Presidential,Ruth Bader Ginsburg,Bill Clinton,Democratic,1993,87,27,Liberal,Left - Died (Involuntary),Donald Trump,Republican,1,Democratic,Republican,Senate Only,6,0,3
+2020,Presidential,Stephen Breyer,Bill Clinton,Democratic,1994,82,26,Liberal,Stayed,Donald Trump,Republican,1,Democratic,Republican,Senate Only,6,0,3
+2020,Presidential,John Roberts,George W. Bush,Republican,2005,65,15,Conservative,Stayed,Donald Trump,Republican,1,Democratic,Republican,Senate Only,5,0,4
+2020,Presidential,Samuel Alito,George W. Bush,Republican,2006,70,14,Conservative,Stayed,Donald Trump,Republican,1,Democratic,Republican,Senate Only,5,0,4
+2020,Presidential,Sonia Sotomayor,Barack Obama,Democratic,2009,66,11,Liberal,Stayed,Donald Trump,Republican,1,Democratic,Republican,Senate Only,6,0,3
+2020,Presidential,Elena Kagan,Barack Obama,Democratic,2010,60,10,Liberal,Stayed,Donald Trump,Republican,1,Democratic,Republican,Senate Only,6,0,3
+2020,Presidential,Neil Gorsuch,Donald Trump,Republican,2017,53,3,Conservative,Stayed,Donald Trump,Republican,1,Democratic,Republican,Senate Only,5,0,4
+2020,Presidential,Brett Kavanaugh,Donald Trump,Republican,2018,55,2,Conservative,Stayed,Donald Trump,Republican,1,Democratic,Republican,Senate Only,5,0,4
+2020,Presidential,Amy Coney Barrett,Donald Trump,Republican,2020,48,0,Conservative,Stayed,Donald Trump,Republican,1,Democratic,Republican,Senate Only,5,0,4
+2022,Mid-term,Clarence Thomas,George H.W. Bush,Republican,1991,74,31,Conservative,Stayed,Joe Biden,Democratic,1,Democratic,Democratic,Both,5,0,4
+2022,Mid-term,Stephen Breyer,Bill Clinton,Democratic,1994,84,28,Liberal,Left - Retired (Voluntary),Joe Biden,Democratic,1,Democratic,Democratic,Both,6,0,3
+2022,Mid-term,John Roberts,George W. Bush,Republican,2005,67,17,Conservative,Stayed,Joe Biden,Democratic,1,Democratic,Democratic,Both,5,0,4
+2022,Mid-term,Samuel Alito,George W. Bush,Republican,2006,72,16,Conservative,Stayed,Joe Biden,Democratic,1,Democratic,Democratic,Both,5,0,4
+2022,Mid-term,Sonia Sotomayor,Barack Obama,Democratic,2009,68,13,Liberal,Stayed,Joe Biden,Democratic,1,Democratic,Democratic,Both,6,0,3
+2022,Mid-term,Elena Kagan,Barack Obama,Democratic,2010,62,12,Liberal,Stayed,Joe Biden,Democratic,1,Democratic,Democratic,Both,6,0,3
+2022,Mid-term,Neil Gorsuch,Donald Trump,Republican,2017,55,5,Conservative,Stayed,Joe Biden,Democratic,1,Democratic,Democratic,Both,5,0,4
+2022,Mid-term,Brett Kavanaugh,Donald Trump,Republican,2018,57,4,Conservative,Stayed,Joe Biden,Democratic,1,Democratic,Democratic,Both,5,0,4
+2022,Mid-term,Amy Coney Barrett,Donald Trump,Republican,2020,50,2,Conservative,Stayed,Joe Biden,Democratic,1,Democratic,Democratic,Both,5,0,4
+2022,Mid-term,Ketanji Brown Jackson,Joe Biden,Democratic,2022,52,0,Liberal,Stayed,Joe Biden,Democratic,1,Democratic,Democratic,Both,6,0,3
+2024,Presidential,Clarence Thomas,George H.W. Bush,Republican,1991,76,33,Conservative,Stayed,Joe Biden,Democratic,1,Republican,Democratic,Senate Only,5,0,3
+2024,Presidential,John Roberts,George W. Bush,Republican,2005,69,19,Conservative,Stayed,Joe Biden,Democratic,1,Republican,Democratic,Senate Only,5,0,3
+2024,Presidential,Samuel Alito,George W. Bush,Republican,2006,74,18,Conservative,Stayed,Joe Biden,Democratic,1,Republican,Democratic,Senate Only,5,0,3
+2024,Presidential,Sonia Sotomayor,Barack Obama,Democratic,2009,70,15,Liberal,Stayed,Joe Biden,Democratic,1,Republican,Democratic,Senate Only,6,0,2
+2024,Presidential,Elena Kagan,Barack Obama,Democratic,2010,64,14,Liberal,Stayed,Joe Biden,Democratic,1,Republican,Democratic,Senate Only,6,0,2
+2024,Presidential,Neil Gorsuch,Donald Trump,Republican,2017,57,7,Conservative,Stayed,Joe Biden,Democratic,1,Republican,Democratic,Senate Only,5,0,3
+2024,Presidential,Brett Kavanaugh,Donald Trump,Republican,2018,59,6,Conservative,Stayed,Joe Biden,Democratic,1,Republican,Democratic,Senate Only,5,0,3
+2024,Presidential,Amy Coney Barrett,Donald Trump,Republican,2020,52,4,Conservative,Stayed,Joe Biden,Democratic,1,Republican,Democratic,Senate Only,5,0,3
+2024,Presidential,Ketanji Brown Jackson,Joe Biden,Democratic,2022,54,2,Liberal,Stayed,Joe Biden,Democratic,1,Republican,Democratic,Senate Only,6,0,2
