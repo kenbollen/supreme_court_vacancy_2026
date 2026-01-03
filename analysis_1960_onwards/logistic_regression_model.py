@@ -10,8 +10,40 @@ from matplotlib.patches import Patch
 import warnings
 warnings.filterwarnings('ignore')
 
+# Life expectancy data (Combined)
+LIFE_EXPECTANCY = {
+    1900: 47.3,
+    1920: 54.1,
+    1940: 62.9,
+    1950: 68.2,
+    1960: 69.7,
+    1970: 70.8,
+    1980: 73.7,
+    1990: 75.4,
+    2000: 76.8,
+    2010: 78.7,
+    2018: 78.7,
+    2022: 77.5,
+    2026: 77.5  # Assume same as 2022 for predictions
+}
+
+def get_life_expectancy(year):
+    """Interpolate life expectancy for a given year."""
+    years = sorted(LIFE_EXPECTANCY.keys())
+    if year in LIFE_EXPECTANCY:
+        return LIFE_EXPECTANCY[year]
+    lower_year = max([y for y in years if y <= year], default=years[0])
+    upper_year = min([y for y in years if y >= year], default=years[-1])
+    if lower_year == upper_year:
+        return LIFE_EXPECTANCY[lower_year]
+    lower_le = LIFE_EXPECTANCY[lower_year]
+    upper_le = LIFE_EXPECTANCY[upper_year]
+    ratio = (year - lower_year) / (upper_year - lower_year)
+    return lower_le + ratio * (upper_le - lower_le)
+
 print("=" * 60)
 print("SUPREME COURT VACANCY MODEL - 1960 ONWARDS")
+print("(Using Age-to-Life-Expectancy Ratio)")
 print("=" * 60)
 
 # Load the cleaned data
@@ -126,8 +158,17 @@ def get_ideology_alignment(row):
 
 df_2026_raw["Ideology Alignment"] = df_2026_raw.apply(get_ideology_alignment, axis=1)
 
-# Drop columns not needed
-columns_to_drop = ['Election Year', 'Justice Name', 'President', 'Appointed By', 'Year Appointed', 'Status']
+# Calculate Age Ratio for 2026 predictions
+life_exp_2026 = get_life_expectancy(2026)
+df_2026_raw['Age Ratio'] = df_2026_raw['Age in Election Year'] / life_exp_2026
+
+print(f"\n2026 Life Expectancy: {life_exp_2026}")
+print("Justice Age Ratios:")
+for _, row in df_2026_raw.iterrows():
+    print(f"  {row['Justice Name']}: {row['Age in Election Year']} / {life_exp_2026:.1f} = {row['Age Ratio']:.3f}")
+
+# Drop columns not needed (including raw Age, keeping Age Ratio)
+columns_to_drop = ['Election Year', 'Justice Name', 'President', 'Appointed By', 'Year Appointed', 'Status', 'Age in Election Year']
 df_2026 = df_2026_raw.drop(columns=columns_to_drop)
 
 # Create dummy variables
@@ -223,7 +264,7 @@ for bar, prob in zip(bars, proba_sorted):
 
 # Styling
 ax.set_xlabel('Probability of Leaving (%)', fontsize=12, fontweight='bold')
-ax.set_title('2026 Supreme Court Vacancy Predictions (Model Trained on 1960+ Data)\nProbability Each Justice Leaves Their Seat',
+ax.set_title('2026 Supreme Court Vacancy Predictions\n(1960+ Data with Age-to-Life-Expectancy Ratio)',
              fontsize=14, fontweight='bold', pad=20)
 ax.set_xlim(0, max(proba_sorted) + 3)
 ax.invert_yaxis()
