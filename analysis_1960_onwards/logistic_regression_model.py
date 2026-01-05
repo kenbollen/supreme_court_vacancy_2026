@@ -10,8 +10,41 @@ from matplotlib.patches import Patch
 import warnings
 warnings.filterwarnings('ignore')
 
+# Life expectancy data (Combined)
+LIFE_EXPECTANCY = {
+    1900: 47.3,
+    1920: 54.1,
+    1940: 62.9,
+    1950: 68.2,
+    1960: 69.7,
+    1970: 70.8,
+    1980: 73.7,
+    1990: 75.4,
+    2000: 76.8,
+    2010: 78.7,
+    2018: 78.7,
+    2022: 77.5,
+    2026: 77.5  # Assume same as 2022 for predictions
+}
+
+def get_life_expectancy(year):
+    """Interpolate life expectancy for a given year."""
+    years = sorted(LIFE_EXPECTANCY.keys())
+    if year in LIFE_EXPECTANCY:
+        return LIFE_EXPECTANCY[year]
+    lower_year = max([y for y in years if y <= year], default=years[0])
+    upper_year = min([y for y in years if y >= year], default=years[-1])
+    if lower_year == upper_year:
+        return LIFE_EXPECTANCY[lower_year]
+    lower_le = LIFE_EXPECTANCY[lower_year]
+    upper_le = LIFE_EXPECTANCY[upper_year]
+    ratio = (year - lower_year) / (upper_year - lower_year)
+    return lower_le + ratio * (upper_le - lower_le)
+
 print("=" * 60)
-print("SUPREME COURT VACANCY MODEL - 1960 ONWARDS")
+print("SUPREME COURT VACANCY MODEL - ALL YEARS 1900-2025")
+print("(Using Age-to-Life-Expectancy Ratio)")
+print("(Predicting ALL Departures - Voluntary & Involuntary)")
 print("=" * 60)
 
 # Load the cleaned data
@@ -42,11 +75,13 @@ X_train_scaled = scaler.fit_transform(X_train)
 X_test_scaled = scaler.transform(X_test)
 
 # Train logistic regression with Lasso (L1) regularization
+# Using C=0.1 for stronger regularization and more iterations for convergence
 model = LogisticRegression(
     penalty='l1',
     solver='saga',
+    C=0.1,  # Stronger regularization (lower C = more regularization)
     class_weight='balanced',
-    max_iter=1000,
+    max_iter=5000,
     random_state=42
 )
 model.fit(X_train_scaled, y_train)
@@ -109,8 +144,9 @@ print("=" * 60)
 # Load raw 2026 prediction data
 df_2026_raw = pd.read_csv("../prediction_set_raw.csv")
 
-# Store justice names for output
+# Store justice names and ages for output
 justice_names = df_2026_raw['Justice Name'].tolist()
+justice_ages = df_2026_raw['Age in Election Year'].tolist()
 
 # Apply same transformations as training data
 def get_ideology_alignment(row):
@@ -126,19 +162,45 @@ def get_ideology_alignment(row):
 
 df_2026_raw["Ideology Alignment"] = df_2026_raw.apply(get_ideology_alignment, axis=1)
 
-# Drop columns not needed
-columns_to_drop = ['Election Year', 'Justice Name', 'President', 'Appointed By', 'Year Appointed', 'Status']
-df_2026 = df_2026_raw.drop(columns=columns_to_drop)
+# Calculate Age Ratio for 2026 predictions
+life_exp_2026 = get_life_expectancy(2026)
+df_2026_raw['Age Ratio'] = df_2026_raw['Age in Election Year'] / life_exp_2026
+
+print(f"\n2026 Life Expectancy: {life_exp_2026}")
+print("Justice Age Ratios:")
+for _, row in df_2026_raw.iterrows():
+    print(f"  {row['Justice Name']}: {row['Age in Election Year']} / {life_exp_2026:.1f} = {row['Age Ratio']:.3f}")
+
+# Map old column names to new format for prediction
+# Create a working copy with renamed columns to match training data format
+df_2026 = pd.DataFrame()
+df_2026['Years on Court'] = df_2026_raw['Years on Court']
+df_2026['Presidential Term'] = df_2026_raw['Presidential Term']
+df_2026['Court Conservatives'] = df_2026_raw['Other Conservatives']
+df_2026['Court Moderates'] = df_2026_raw['Other Moderates']
+df_2026['Court Liberals'] = df_2026_raw['Other Liberals']
+df_2026['Age Ratio'] = df_2026_raw['Age Ratio']
+
+# Add categorical columns that will be converted to dummies
+df_2026['Appointing President Party'] = df_2026_raw["Appointing President's Party"]
+df_2026['President Party'] = df_2026_raw["President's Party"]
+df_2026['Ideology'] = df_2026_raw['Ideology']
+df_2026['House Control'] = df_2026_raw['House Control']
+df_2026['Senate Control'] = df_2026_raw['Senate Control']
+df_2026['Election Year Type'] = df_2026_raw['Election Type'].replace({
+    'Presidential': 'Presidential Election',
+    'Mid-term': 'Mid-Term Election'
+})
+df_2026['Ideology Alignment'] = df_2026_raw['Ideology Alignment']
 
 # Create dummy variables
 categorical_columns = [
-    "Appointing President's Party",
-    "President's Party",
+    "Appointing President Party",
+    "President Party",
     "Ideology",
     "House Control",
     "Senate Control",
-    "President's Party Controls",
-    "Election Type",
+    "Election Year Type",
     "Ideology Alignment"
 ]
 df_2026 = pd.get_dummies(df_2026, columns=categorical_columns, drop_first=True)
@@ -147,6 +209,9 @@ df_2026 = pd.get_dummies(df_2026, columns=categorical_columns, drop_first=True)
 for col in X.columns:
     if col not in df_2026.columns:
         df_2026[col] = False
+
+# Remove any extra columns not in training
+df_2026 = df_2026[[col for col in df_2026.columns if col in X.columns]]
 
 # Ensure column order matches training data
 df_2026 = df_2026[X.columns]
@@ -165,9 +230,9 @@ print(f"{'Justice':<25} {'P(Leave)':<12} {'P(Stay)':<12}")
 print("-" * 60)
 
 predictions = []
-for name, p_leave, p_stay in zip(justice_names, proba_leave, proba_stay):
-    print(f"{name:<25} {p_leave:>8.1%}      {p_stay:>8.1%}")
-    predictions.append({'Justice': name, 'P(Leave)': p_leave, 'P(Stay)': p_stay})
+for name, age, p_leave, p_stay in zip(justice_names, justice_ages, proba_leave, proba_stay):
+    print(f"{name:<25} {p_leave:>8.2%}      {p_stay:>8.2%}")
+    predictions.append({'Justice': name, 'Age': age, 'P(Leave)': p_leave, 'P(Stay)': p_stay})
 
 # Sort by probability of leaving
 print("\nRanked by Likelihood to Leave:")
@@ -223,9 +288,9 @@ for bar, prob in zip(bars, proba_sorted):
 
 # Styling
 ax.set_xlabel('Probability of Leaving (%)', fontsize=12, fontweight='bold')
-ax.set_title('2026 Supreme Court Vacancy Predictions (Model Trained on 1960+ Data)\nProbability Each Justice Leaves Their Seat',
+ax.set_title('2026 Supreme Court Vacancy Predictions\n(1900-2025 Data, All Departures)',
              fontsize=14, fontweight='bold', pad=20)
-ax.set_xlim(0, max(proba_sorted) + 3)
+ax.set_xlim(0, max(proba_sorted) + 3 if max(proba_sorted) > 0 else 5)
 ax.invert_yaxis()
 
 # Add legend
