@@ -39,23 +39,23 @@ def get_life_expectancy(year):
     return lower_le + ratio * (upper_le - lower_le)
 
 print("=" * 60)
-print("HISTORICAL VISUALIZATIONS - 1960 ONWARDS")
+print("HISTORICAL VISUALIZATIONS - 1900-2025")
 print("(Using Age-to-Life-Expectancy Ratio)")
+print("(All Departures - Voluntary & Involuntary)")
 print("=" * 60)
 
-# Load the raw data and filter for 1960+
-df = pd.read_csv("../SCOTUS_Justices_by_Election_Year.xlsx - Justices by Election Year.csv")
-df = df[df['Election Year'] >= 1960]
-print(f"\nFiltered to 1960 onwards: {len(df)} records")
-print(f"Year range: {df['Election Year'].min()} - {df['Election Year'].max()}")
+# Load the expanded 1900-2025 dataset
+df = pd.read_csv("../SCOTUS_Justices_All_Years_1900-2025.xlsx - Justices by Year.csv")
+print(f"\nLoaded dataset: {len(df)} records")
+print(f"Year range: {df['Year'].min()} - {df['Year'].max()}")
 
 # Calculate Age Ratio
-df['Life Expectancy'] = df['Election Year'].apply(get_life_expectancy)
-df['Age Ratio'] = df['Age in Election Year'] / df['Life Expectancy']
+df['Life Expectancy'] = df['Year'].apply(get_life_expectancy)
+df['Age Ratio'] = df['Age'] / df['Life Expectancy']
 
 # Create Ideology Alignment feature
 def get_ideology_alignment(row):
-    president_party = row["President's Party"]
+    president_party = row["President Party"]
     ideology = row["Ideology"]
     if ideology == "Moderate":
         return "Neutral"
@@ -71,22 +71,24 @@ df["Ideology Alignment"] = df.apply(get_ideology_alignment, axis=1)
 def get_departure_type(status):
     if status == "Stayed":
         return "Stayed"
-    elif "Voluntary" in status or "Retired" in status:
+    elif "Voluntary" in status:
         return "Voluntary"
-    else:
+    elif "Involuntary" in status:
         return "Involuntary"
+    else:
+        return "Unknown"
 
 df["Departure Type"] = df["Status"].apply(get_departure_type)
 
 # Filter to only departures
 departures = df[df["Status"] != "Stayed"].copy()
 
-print(f"Total departures (1960+): {len(departures)}")
+print(f"Total departures: {len(departures)}")
 print(f"\nDeparture types:\n{departures['Departure Type'].value_counts()}")
 
 # Create figure with subplots
 fig = plt.figure(figsize=(16, 14))
-fig.suptitle('Supreme Court Justice Departures Analysis (1960 Onwards)\nUsing Age-to-Life-Expectancy Ratio', fontsize=16, fontweight='bold', y=1.02)
+fig.suptitle('Supreme Court Justice Departures Analysis (1900-2025)\nUsing Age-to-Life-Expectancy Ratio', fontsize=16, fontweight='bold', y=1.02)
 
 # ============================================================
 # PLOT 1: Departures by Ideology Alignment
@@ -107,7 +109,7 @@ for bar in bars:
 
 ax1.set_xlabel('Ideology Alignment with President', fontsize=12, fontweight='bold')
 ax1.set_ylabel('Number of Departures', fontsize=12, fontweight='bold')
-ax1.set_title('Justice Departures by Ideology Alignment\n(1960-2024)', fontsize=14, fontweight='bold')
+ax1.set_title('Justice Departures by Ideology Alignment\n(1900-2025)', fontsize=14, fontweight='bold')
 
 # ============================================================
 # PLOT 2: Age Ratio at Departure Over Time (Voluntary vs Involuntary)
@@ -117,23 +119,23 @@ ax2 = fig.add_subplot(2, 2, 2)
 voluntary = departures[departures["Departure Type"] == "Voluntary"]
 involuntary = departures[departures["Departure Type"] == "Involuntary"]
 
-ax2.scatter(voluntary["Election Year"], voluntary["Age Ratio"],
+ax2.scatter(voluntary["Year"], voluntary["Age Ratio"],
             c='#3498db', label='Voluntary', alpha=0.7, s=80, edgecolor='black')
-ax2.scatter(involuntary["Election Year"], involuntary["Age Ratio"],
+ax2.scatter(involuntary["Year"], involuntary["Age Ratio"],
             c='#e74c3c', label='Involuntary', alpha=0.7, s=80, marker='X', edgecolor='black')
 
 # Add trend lines if enough data
 if len(voluntary) > 1:
-    z_vol = np.polyfit(voluntary["Election Year"], voluntary["Age Ratio"], 1)
+    z_vol = np.polyfit(voluntary["Year"], voluntary["Age Ratio"], 1)
     p_vol = np.poly1d(z_vol)
-    x_range = np.linspace(voluntary["Election Year"].min(), voluntary["Election Year"].max(), 100)
+    x_range = np.linspace(voluntary["Year"].min(), voluntary["Year"].max(), 100)
     ax2.plot(x_range, p_vol(x_range),
              '--', color='#3498db', alpha=0.8, linewidth=2, label='Voluntary Trend')
 
 if len(involuntary) > 1:
-    z_inv = np.polyfit(involuntary["Election Year"], involuntary["Age Ratio"], 1)
+    z_inv = np.polyfit(involuntary["Year"], involuntary["Age Ratio"], 1)
     p_inv = np.poly1d(z_inv)
-    x_range = np.linspace(involuntary["Election Year"].min(), involuntary["Election Year"].max(), 100)
+    x_range = np.linspace(involuntary["Year"].min(), involuntary["Year"].max(), 100)
     ax2.plot(x_range, p_inv(x_range),
              '--', color='#e74c3c', alpha=0.8, linewidth=2, label='Involuntary Trend')
 
@@ -251,11 +253,11 @@ ax4.set_ylabel('Number of Departures', fontsize=12, fontweight='bold')
 ax4.set_title('Departures When Justice Has ALIGNED Ideology\nBy Aligned Party Congress Control', fontsize=14, fontweight='bold')
 
 plt.tight_layout()
-plt.savefig('historical_departures_analysis_1960_onwards.png', dpi=150, bbox_inches='tight')
+plt.savefig('historical_departures_analysis_1900_2025.png', dpi=150, bbox_inches='tight')
 plt.show()
 
 print("\n" + "=" * 60)
-print("SUMMARY STATISTICS (1960 ONWARDS)")
+print("SUMMARY STATISTICS (1900-2025)")
 print("=" * 60)
 
 print("\n1. Departures by Ideology Alignment:")
@@ -263,9 +265,9 @@ print(departures["Ideology Alignment"].value_counts().to_string())
 
 print("\n2. Age Ratio at Departure Statistics:")
 if len(voluntary) > 0:
-    print(f"   Voluntary - Mean Ratio: {voluntary['Age Ratio'].mean():.3f}, Mean Age: {voluntary['Age in Election Year'].mean():.1f}")
+    print(f"   Voluntary - Mean Ratio: {voluntary['Age Ratio'].mean():.3f}, Mean Age: {voluntary['Age'].mean():.1f}")
 if len(involuntary) > 0:
-    print(f"   Involuntary - Mean Ratio: {involuntary['Age Ratio'].mean():.3f}, Mean Age: {involuntary['Age in Election Year'].mean():.1f}")
+    print(f"   Involuntary - Mean Ratio: {involuntary['Age Ratio'].mean():.3f}, Mean Age: {involuntary['Age'].mean():.1f}")
 
 print("\n3. Opposing Ideology Departures by Congress Control:")
 if len(opposing_departures) > 0:
@@ -279,4 +281,4 @@ if len(aligned_departures) > 0:
 else:
     print("   No aligned ideology departures")
 
-print("\n\nChart saved to: historical_departures_analysis_1960_onwards.png")
+print("\n\nChart saved to: historical_departures_analysis_1900_2025.png")
